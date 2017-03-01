@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/initialquests/mtrm",
+    "value": [
+      "protectorate"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/pronounGenders/mtrm",
+    "value": {
+      "male": "neutral",
+      "female": "neutral"
+    }
+  }
+]
