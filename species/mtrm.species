@@ -78,14 +78,14 @@
       { "item" : "apexshiphatch" },
 
 // Spinning Wheel
-      { "item" : "conceptchest" },
-      { "item" : "conceptlegs" },
-      { "item" : "coolchest" },
-      { "item" : "coollegs" },
-      { "item" : "sweatervestchest" },
-      { "item" : "sweatervestlegs" },
-      { "item" : "workoutchest" },
-      { "item" : "workoutlegs" }
+      { "item" : "novakidfancychest" },
+      { "item" : "novakidfancypants" },
+      { "item" : "novakidjacket" },
+      { "item" : "novakidjacketpants" },
+      { "item" : "novakidsuspenders" },
+      { "item" : "novakidsuspenderspants" },
+      { "item" : "novakidwaistcoat" },
+      { "item" : "novakidblackpants" }
     ]
   },
 
@@ -130,20 +130,20 @@
   ],
   "bodyColor" : [
     //placeholder blue
-    { "ffe2c5" : "89abcd", "ffc181" : "6789ab", "d39c6c" : "456789", "c7815b" : "234567" },
+    { "ffe2c5" : "8ac", "ffc181" : "68a", "d39c6c" : "468", "c7815b" : "246" },
     //placeholder brown
-    { "ffe2c5" : "dcba98", "ffc181" : "ba9876", "d39c6c" : "987654", "c7815b" : "765432" },
+    { "ffe2c5" : "ca8", "ffc181" : "a86", "d39c6c" : "864", "c7815b" : "642" },
     //placeholder grey
-    { "ffe2c5" : "e0e0e0", "ffc181" : "c0c0c0", "d39c6c" : "a0a0a0", "c7815b" : "808080" }
+    { "ffe2c5" : "eee", "ffc181" : "ccc", "d39c6c" : "aaa", "c7815b" : "888" }
   ],
   "undyColor" : [
-    { "dc1f00" : "56789a", "be1b00" : "345678", "951500" : "123456" },
-    { "dc1f00" : "a98765", "be1b00" : "876543", "951500" : "654321" },
-    { "dc1f00" : "b0b0b0", "be1b00" : "909090", "951500" : "707070" }
+    { "dc1f00" : "579", "be1b00" : "357", "951500" : "135" },
+    { "dc1f00" : "975", "be1b00" : "753", "951500" : "531" },
+    { "dc1f00" : "bbb", "be1b00" : "999", "951500" : "777" }
   ],
   "hairColor" : [
-    { "d9c189" : "56789a", "a38d59" : "345678", "735e3a" : "123456" },
-    { "d9c189" : "a98765", "a38d59" : "876543", "735e3a" : "654321" },
-    { "d9c189" : "b0b0b0", "a38d59" : "909090", "735e3a" : "707070" }
+    { "d9c189" : "579", "a38d59" : "357", "735e3a" : "135" },
+    { "d9c189" : "975", "a38d59" : "753", "735e3a" : "531" },
+    { "d9c189" : "bbb", "a38d59" : "999", "735e3a" : "777" }
   ]
 }
