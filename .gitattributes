@@ -1,5 +1,6 @@
 *.tmp export-ignore
 *.old export-ignore
+*.hold export-ignore
 tmp export-ignore
 hold export-ignore
 bodytxt export-ignore
