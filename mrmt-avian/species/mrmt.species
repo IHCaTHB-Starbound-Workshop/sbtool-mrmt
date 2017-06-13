@@ -6,24 +6,25 @@
     "subTitle" : "Minimalist Race Mod Template",
     "description" : "Species that utilize existing assets where it can."
   },
-  "nameGen" : [ "/species/humanmalenamegen.config:names", "/species/humanfemalenamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
-  "skull" : "/humanoid/human/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+
+  "nameGen" : [ "/species/aviannamegen.config:names", "/species/aviannamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/avianhurt_male1.ogg", "/sfx/humanoid/avianhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Feather colour", "Plumage", "Shirt", "Legwear", "Beak", "Fluff", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
+  "skull" : "/humanoid/avian/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ff7a69FF?replace=31a6ffFF=d93a3aFF",
   "defaultBlueprints" : {
     "tier1" : [
 
 // Empty Hands
-      { "item" : "flagapex" },
+      { "item" : "flagavian" },
 
 // Anvil
-      { "item" : "novatier1head" },
-      { "item" : "novatier1chest" },
-      { "item" : "novatier1pants" },
-      { "item" : "novatier2head" },
-      { "item" : "novatier2chest" },
-      { "item" : "novatier2pants" },
+      { "item" : "aviantier1head" },
+      { "item" : "aviantier1chest" },
+      { "item" : "aviantier1pants" },
+      { "item" : "aviantier2head" },
+      { "item" : "aviantier2chest" },
+      { "item" : "aviantier2pants" },
 
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
@@ -31,12 +32,12 @@
       { "item" : "tungstenhammer" },
 
 // Anvil2
-      { "item" : "novatier3head" },
-      { "item" : "novatier3chest" },
-      { "item" : "novatier3pants" },
-      { "item" : "novatier4head" },
-      { "item" : "novatier4chest" },
-      { "item" : "novatier4pants" },
+      { "item" : "aviantier3head" },
+      { "item" : "aviantier3chest" },
+      { "item" : "aviantier3pants" },
+      { "item" : "aviantier4head" },
+      { "item" : "aviantier4chest" },
+      { "item" : "aviantier4pants" },
 
       { "item" : "titaniumdagger" },
       { "item" : "titaniumspear" },
@@ -44,26 +45,26 @@
       { "item" : "durasteelshortsword" },
 
 // Anvil3
-      { "item" : "novatier5ahead" },
-      { "item" : "novatier5achest" },
-      { "item" : "novatier5apants" },
-      { "item" : "novatier6ahead" },
-      { "item" : "novatier6achest" },
-      { "item" : "novatier6apants" },
+      { "item" : "aviantier5ahead" },
+      { "item" : "aviantier5achest" },
+      { "item" : "aviantier5apants" },
+      { "item" : "aviantier6ahead" },
+      { "item" : "aviantier6achest" },
+      { "item" : "aviantier6apants" },
 
-      { "item" : "novatier5mhead" },
-      { "item" : "novatier5mchest" },
-      { "item" : "novatier5mpants" },
-      { "item" : "novatier6mhead" },
-      { "item" : "novatier6mchest" },
-      { "item" : "novatier6mpants" },
+      { "item" : "aviantier5mhead" },
+      { "item" : "aviantier5mchest" },
+      { "item" : "aviantier5mpants" },
+      { "item" : "aviantier6mhead" },
+      { "item" : "aviantier6mchest" },
+      { "item" : "aviantier6mpants" },
 
-      { "item" : "novatier5shead" },
-      { "item" : "novatier5schest" },
-      { "item" : "novatier5spants" },
-      { "item" : "novatier6shead" },
-      { "item" : "novatier6schest" },
-      { "item" : "novatier6spants" },
+      { "item" : "aviantier5shead" },
+      { "item" : "aviantier5schest" },
+      { "item" : "aviantier5spants" },
+      { "item" : "aviantier6shead" },
+      { "item" : "aviantier6schest" },
+      { "item" : "aviantier6spants" },
 
       { "item" : "aegisaltpistol" },
       { "item" : "aegisaltbow" },
@@ -73,32 +74,32 @@
       { "item" : "violiumbroadsword" },
 
 // Furniture Table 2
-      { "item" : "apexstoragelocker" },
-      { "item" : "apexshipdoor" },
-      { "item" : "apexshiphatch" },
+      { "item" : "avianstoragelocker" },
+      { "item" : "avianshipdoor" },
+      { "item" : "avianshiphatch" },
 
 // Spinning Wheel
-      { "item" : "novakidfancychest" },
-      { "item" : "novakidfancypants" },
-      { "item" : "novakidjacket" },
-      { "item" : "novakidjacketpants" },
-      { "item" : "novakidsuspenders" },
-      { "item" : "novakidsuspenderspants" },
-      { "item" : "novakidwaistcoat" },
-      { "item" : "novakidblackpants" }
+      { "item" : "avianadventurershirt" },
+      { "item" : "avianadventurerpants" },
+      { "item" : "aviancommonershirt" },
+      { "item" : "aviancommonerlegs" },
+      { "item" : "avianfancyshirt" },
+      { "item" : "avianfancyskirt" },
+      { "item" : "avianworkershirt" },
+      { "item" : "avianworkerpants" }
     ]
   },
 
-//  "altOptionAsFacialMask" : true,
-//  "altColorAsFacialMaskSubColor" : true,
-  "altOptionAsHairColor" : true,
-  "altOptionAsUndyColor" : true,
+  "altOptionAsFacialMask" : true,
+  "altColorAsFacialMaskSubColor" : true,
+//  "altOptionAsHairColor" : true,
+//  "altOptionAsUndyColor" : true,
 
-//  "bodyColorAsFacialMaskSubColor" : true,
+  "bodyColorAsFacialMaskSubColor" : true,
 
 //  "hairColorAsBodySubColor" : true,
-//  "headOptionAsFacialhair" : true,
-  "headOptionAsHairColor" : true,
+  "headOptionAsFacialhair" : true,
+//  "headOptionAsHairColor" : true,
 
 "genders" : [
     {
@@ -106,12 +107,12 @@
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/mrmtmale.png",
       "hair" : [ "1" ],
-      "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
-      "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
-      "facialHairGroup" : "",
-      "facialHair" : [ ],
-      "facialMaskGroup" : "",
-      "facialMask" : [ ]
+      "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
+      "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
+      "facialHairGroup" : "fluff",
+      "facialHair" : [ "1" ],
+      "facialMaskGroup" : "beaks",
+      "facialMask" : [ "1" ]
     },
     {
       "name" : "female",
@@ -120,10 +121,10 @@
       "hair" : [ "1" ],
       "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
       "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
-      "facialHairGroup" : "",
-      "facialHair" : [ ],
-      "facialMaskGroup" : "",
-      "facialMask" : [ ]
+      "facialHairGroup" : "fluff",
+      "facialHair" : [ "1" ],
+      "facialMaskGroup" : "beaks",
+      "facialMask" : [ "1" ]
     }
   ],
   "bodyColor" : [
