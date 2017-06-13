@@ -1,7 +1,7 @@
 [
   {
     "op" : "copy",
-    "path" : "/initialquests/mtrm",
+    "path" : "/initialquests/mrmt",
     "from" : "/initialquests/human"
   }
 ]
