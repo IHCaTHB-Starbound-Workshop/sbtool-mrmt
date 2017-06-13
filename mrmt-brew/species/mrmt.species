@@ -1,14 +1,14 @@
 {
 
-  "kind" : "mtrm",
-	"charCreationTooltip" : {
-	"title" : "mtrm",
-	"subTitle" : "Minimalist Template Race Mod",
-	"description" : "Species that utilize existing assets where it can."
+  "kind" : "mrmt",
+  "charCreationTooltip" : {
+    "title" : "mrmt",
+    "subTitle" : "Minimalist Race Mod Template",
+    "description" : "Species that utilize existing assets where it can."
   },
   "nameGen" : [ "/species/humanmalenamegen.config:names", "/species/humanfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "MTRM", "Personality" ],
+  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
   "skull" : "/humanoid/human/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -104,7 +104,7 @@
     {
        "name" : "male",
       "image" : "/interface/title/male.png",
-      "characterImage" : "/interface/title/mtrmmale.png",
+      "characterImage" : "/interface/title/mrmtmale.png",
       "hair" : [ "1" ],
       "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
       "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
@@ -116,7 +116,7 @@
     {
       "name" : "female",
       "image" : "/interface/title/female.png",
-      "characterImage" : "/interface/title/mtrmfemale.png",
+      "characterImage" : "/interface/title/mrmtfemale.png",
       "hair" : [ "1" ],
       "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
       "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
