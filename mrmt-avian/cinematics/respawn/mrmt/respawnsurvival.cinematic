@@ -93,7 +93,7 @@
    {
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/apex/layer1.png:<frame>"
+          "image" : "/cinematics/respawn/avian/layer1.png:<frame>"
         }
       ],
       "keyframes" : [
@@ -160,7 +160,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/apex/layer2.png:<frame>"
+          "image" : "/cinematics/respawn/avian/layer2.png:<frame>"
         }
       ],
       "keyframes" : [

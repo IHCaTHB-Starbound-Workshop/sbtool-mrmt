@@ -2,6 +2,6 @@
   {
     "op" : "copy",
     "path" : "/initialquests/mrmt",
-    "from" : "/initialquests/human"
+    "from" : "/initialquests/avian"
   }
 ]

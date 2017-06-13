@@ -178,7 +178,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/teleport/up_apex.png:<frame>"
+          "image" : "/cinematics/teleport/up_avian.png:<frame>"
         }
       ],
       "animationFrames" : 4,
@@ -209,7 +209,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/teleport/warpdown_apex.png:<frame>"
+          "image" : "/cinematics/teleport/warpdown_avian.png:<frame>"
         }
       ],
       "animationFrames" : 4,
