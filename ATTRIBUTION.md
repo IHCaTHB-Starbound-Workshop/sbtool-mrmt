@@ -1,4 +1,4 @@
-# sbmod-mtrm
+# sbmod-mrmt
 # attribution
 
 ## author

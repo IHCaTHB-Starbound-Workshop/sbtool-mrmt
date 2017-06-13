@@ -1,0 +1,7 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/initialquests/mrmt",
+    "from" : "/initialquests/apex"
+  }
+]

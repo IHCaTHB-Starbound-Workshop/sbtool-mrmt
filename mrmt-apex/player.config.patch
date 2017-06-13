@@ -1,0 +1,7 @@
+[
+  {
+    "op" : "copy",
+    "path" : "/defaultCodexes/mrmt",
+    "from" : "/defaultCodexes/apex"
+  }
+]

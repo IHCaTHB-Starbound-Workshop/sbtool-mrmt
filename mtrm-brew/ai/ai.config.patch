@@ -1,7 +1,0 @@
-[
-  {
-    "op" : "copy",
-    "path" : "/species/mtrm",
-    "from" : "/species/apex"
-  }
-]
