@@ -100,7 +100,7 @@
 //  "headOptionAsFacialhair" : true,
   "headOptionAsHairColor" : true,
 
-"genders" : [
+  "genders" : [
     {
        "name" : "male",
       "image" : "/interface/title/male.png",
