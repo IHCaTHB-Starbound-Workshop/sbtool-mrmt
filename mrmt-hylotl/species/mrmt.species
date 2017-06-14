@@ -6,24 +6,25 @@
     "subTitle" : "Minimalist Race Mod Template",
     "description" : "Species that utilize existing assets where it can."
   },
-  "nameGen" : [ "/species/humanmalenamegen.config:names", "/species/humanfemalenamegen.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
-  "skull" : "/humanoid/human/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+
+  "nameGen" : [ "/species/hylotlmalenamegen.config:names", "/species/hylotlfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/hylotlhurt_male1.ogg", "/sfx/humanoid/hylotlhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Skin colour", "Fins", "Shirt", "Legwear", "Belly colour", "Fin colour", "Shirt colour", "Legwear colour", "HYLOTL", "Personality" ],
+  "skull" : "/humanoid/hylotl/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=80b3ffFF?replace=31a6ffFF=5476f0FF",
   "defaultBlueprints" : {
     "tier1" : [
 
 // Empty Hands
-      { "item" : "flagapex" },
+      { "item" : "flaghylotl" },
 
 // Anvil
-      { "item" : "novatier1head" },
-      { "item" : "novatier1chest" },
-      { "item" : "novatier1pants" },
-      { "item" : "novatier2head" },
-      { "item" : "novatier2chest" },
-      { "item" : "novatier2pants" },
+      { "item" : "hylotltier1head" },
+      { "item" : "hylotltier1chest" },
+      { "item" : "hylotltier1pants" },
+      { "item" : "hylotltier2head" },
+      { "item" : "hylotltier2chest" },
+      { "item" : "hylotltier2pants" },
 
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
@@ -31,12 +32,12 @@
       { "item" : "tungstenhammer" },
 
 // Anvil2
-      { "item" : "novatier3head" },
-      { "item" : "novatier3chest" },
-      { "item" : "novatier3pants" },
-      { "item" : "novatier4head" },
-      { "item" : "novatier4chest" },
-      { "item" : "novatier4pants" },
+      { "item" : "hylotltier3head" },
+      { "item" : "hylotltier3chest" },
+      { "item" : "hylotltier3pants" },
+      { "item" : "hylotltier4head" },
+      { "item" : "hylotltier4chest" },
+      { "item" : "hylotltier4pants" },
 
       { "item" : "titaniumdagger" },
       { "item" : "titaniumspear" },
@@ -44,26 +45,26 @@
       { "item" : "durasteelshortsword" },
 
 // Anvil3
-      { "item" : "novatier5ahead" },
-      { "item" : "novatier5achest" },
-      { "item" : "novatier5apants" },
-      { "item" : "novatier6ahead" },
-      { "item" : "novatier6achest" },
-      { "item" : "novatier6apants" },
+      { "item" : "hylotltier5ahead" },
+      { "item" : "hylotltier5achest" },
+      { "item" : "hylotltier5apants" },
+      { "item" : "hylotltier6ahead" },
+      { "item" : "hylotltier6achest" },
+      { "item" : "hylotltier6apants" },
 
-      { "item" : "novatier5mhead" },
-      { "item" : "novatier5mchest" },
-      { "item" : "novatier5mpants" },
-      { "item" : "novatier6mhead" },
-      { "item" : "novatier6mchest" },
-      { "item" : "novatier6mpants" },
+      { "item" : "hylotltier5mhead" },
+      { "item" : "hylotltier5mchest" },
+      { "item" : "hylotltier5mpants" },
+      { "item" : "hylotltier6mhead" },
+      { "item" : "hylotltier6mchest" },
+      { "item" : "hylotltier6mpants" },
 
-      { "item" : "novatier5shead" },
-      { "item" : "novatier5schest" },
-      { "item" : "novatier5spants" },
-      { "item" : "novatier6shead" },
-      { "item" : "novatier6schest" },
-      { "item" : "novatier6spants" },
+      { "item" : "hylotltier5shead" },
+      { "item" : "hylotltier5schest" },
+      { "item" : "hylotltier5spants" },
+      { "item" : "hylotltier6shead" },
+      { "item" : "hylotltier6schest" },
+      { "item" : "hylotltier6spants" },
 
       { "item" : "aegisaltpistol" },
       { "item" : "aegisaltbow" },
@@ -73,19 +74,19 @@
       { "item" : "violiumbroadsword" },
 
 // Furniture Table 2
-      { "item" : "apexstoragelocker" },
-      { "item" : "apexshipdoor" },
-      { "item" : "apexshiphatch" },
+      { "item" : "hylotlstoragelocker" },
+      { "item" : "hylotlshipdoor" },
+      { "item" : "hylotlshiphatch" },
 
 // Spinning Wheel
-      { "item" : "novakidfancychest" },
-      { "item" : "novakidfancypants" },
-      { "item" : "novakidjacket" },
-      { "item" : "novakidjacketpants" },
-      { "item" : "novakidsuspenders" },
-      { "item" : "novakidsuspenderspants" },
-      { "item" : "novakidwaistcoat" },
-      { "item" : "novakidblackpants" }
+      { "item" : "kimonochest" },
+      { "item" : "kimonolegs" },
+      { "item" : "monkchest" },
+      { "item" : "monklegs" },
+      { "item" : "traditionalchest" },
+      { "item" : "traditionallegs" },
+      { "item" : "traineechest" },
+      { "item" : "traineelegs" }
     ]
   },
 
@@ -96,7 +97,7 @@
 
 //  "bodyColorAsFacialMaskSubColor" : true,
 
-//  "hairColorAsBodySubColor" : true,
+  "hairColorAsBodySubColor" : true,
 //  "headOptionAsFacialhair" : true,
   "headOptionAsHairColor" : true,
 
@@ -106,8 +107,8 @@
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/mrmtmale.png",
       "hair" : [ "1" ],
-      "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
-      "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
+      "shirt" : [ "kimonochest", "monkchest", "traineechest", "traditionalchest" ],
+      "pants" : [ "kimonolegs", "monklegs", "traineelegs", "traditionallegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -118,8 +119,8 @@
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/mrmtfemale.png",
       "hair" : [ "1" ],
-      "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
-      "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
+      "shirt" : [ "kimonochest", "monkchest", "traineechest", "traditionalchest" ],
+      "pants" : [ "kimonolegs", "monklegs", "traineelegs", "traditionallegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -128,20 +129,20 @@
   ],
   "bodyColor" : [
     //placeholder blue
-    { "ffe2c5" : "8ac", "ffc181" : "68a", "d39c6c" : "468", "c7815b" : "246" },
+    { "ffca8a" : "8ac", "e0975c" : "68a", "a85636" : "468", "6f2919" : "246" },
     //placeholder brown
-    { "ffe2c5" : "ca8", "ffc181" : "a86", "d39c6c" : "864", "c7815b" : "642" },
+    { "ffca8a" : "ca8", "e0975c" : "a86", "a85636" : "864", "6f2919" : "642" },
     //placeholder grey
-    { "ffe2c5" : "eee", "ffc181" : "ccc", "d39c6c" : "aaa", "c7815b" : "888" }
+    { "ffca8a" : "eee", "e0975c" : "ccc", "a85636" : "aaa", "6f2919" : "888" }
   ],
   "undyColor" : [
-    { "dc1f00" : "579", "be1b00" : "357", "951500" : "135" },
-    { "dc1f00" : "975", "be1b00" : "753", "951500" : "531" },
-    { "dc1f00" : "bbb", "be1b00" : "999", "951500" : "777" }
+    { "f32200" : "79b", "dc1f00" : "579", "be1b00" : "357", "951500" : "135" },
+    { "f32200" : "b97", "dc1f00" : "975", "be1b00" : "753", "951500" : "531" },
+    { "f32200" : "ddd", "dc1f00" : "bbb", "be1b00" : "999", "951500" : "777" }
   ],
   "hairColor" : [
-    { "d9c189" : "579", "a38d59" : "357", "735e3a" : "135" },
-    { "d9c189" : "975", "a38d59" : "753", "735e3a" : "531" },
-    { "d9c189" : "bbb", "a38d59" : "999", "735e3a" : "777" }
+    { "f7e7b2" : "79b", "d9c189" : "579", "a38d59" : "357", "735e3a" : "135" },
+    { "f7e7b2" : "b97", "d9c189" : "975", "a38d59" : "753", "735e3a" : "531" },
+    { "f7e7b2" : "ddd", "d9c189" : "bbb", "a38d59" : "999", "735e3a" : "777" }
   ]
 }
