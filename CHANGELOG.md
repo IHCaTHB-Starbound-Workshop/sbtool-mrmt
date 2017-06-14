@@ -1,4 +1,4 @@
-# sbmod-mrmt
+# sbtool-mrmt
 # changelog
 
 ### vur

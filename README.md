@@ -1,6 +1,6 @@
 ![_previewimage]
 
-# sbmod-mrmt
+# sbtool-mrmt
 # readme
 
 Project licensed under a modified [MIT license], file included.
