@@ -140,6 +140,5 @@
     //placeholder grey
     { "f7e7b2" : "eee", "d9c189" : "ccc", "a38d59" : "aaa", "735e3a" : "888" }
   ],
-  "hairColor" : [
-  ]
+  "hairColor" : [ "" ]
 }
