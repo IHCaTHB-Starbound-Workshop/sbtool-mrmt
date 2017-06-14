@@ -1,15 +1,14 @@
-![_previewimage]
-
 # sbtool-mrmt
 # readme
 
 Project licensed under a modified [MIT license], file included.
 
-See also [ATTRIBUTION.md], [CHANGELOG.md], [DOC.md], and [_metadata].
+See [DOC.md] for usage instructions.
+
+See also [ATTRIBUTION.md], [CHANGELOG.md], and [_metadata].
 
 You can contact the author on the official Starbound forums [MEGATHREAD].
 
-[_previewimage]: _previewimage
 [MIT license]: LICENSE
 [ATTRIBUTION.md]: ATTRIBUTION.md
 [CHANGELOG.md]: ../master/CHANGELOG.md
