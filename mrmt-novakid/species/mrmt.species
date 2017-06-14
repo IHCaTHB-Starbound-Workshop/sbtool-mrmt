@@ -133,12 +133,12 @@
   ],
   "bodyColor" : [
     //placeholder blue
-    { "f32200" : "8ac", "dc1f00" : "68a", "be1b00" : "468", "806319" : "246" },
+    { "fff8b5" : "8ac", "fde03f" : "68a", "f6b919" : "468", "806319" : "246" },
     //placeholder brown
-    { "f32200" : "ca8", "dc1f00" : "a86", "be1b00" : "864", "806319" : "642" },
+    { "fff8b5" : "ca8", "fde03f" : "a86", "f6b919" : "864", "806319" : "642" },
     //placeholder grey
-    { "f32200" : "eee", "dc1f00" : "ccc", "be1b00" : "aaa", "806319" : "888" }
+    { "fff8b5" : "eee", "fde03f" : "ccc", "f6b919" : "aaa", "806319" : "888" }
   ],
-  "undyColor" : [],
-  "hairColor" : []
+  "undyColor" : [ "" ],
+  "hairColor" : [ "" ]
 }
