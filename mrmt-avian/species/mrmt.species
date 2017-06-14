@@ -101,7 +101,7 @@
   "headOptionAsFacialhair" : true,
 //  "headOptionAsHairColor" : true,
 
-"genders" : [
+  "genders" : [
     {
        "name" : "male",
       "image" : "/interface/title/male.png",
@@ -119,8 +119,8 @@
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/mrmtfemale.png",
       "hair" : [ "1" ],
-      "shirt" : [ "novakidsuspenders", "novakidjacket", "novakidwaistcoat", "novakidfancychest" ],
-      "pants" : [ "novakidsuspenderspants", "novakidjacketpants", "novakidblackpants", "novakidfancypants" ],
+      "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
+      "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
       "facialHairGroup" : "fluff",
       "facialHair" : [ "1" ],
       "facialMaskGroup" : "beaks",
@@ -129,20 +129,12 @@
   ],
   "bodyColor" : [
     //placeholder blue
-    { "ffe2c5" : "8ac", "ffc181" : "68a", "d39c6c" : "468", "c7815b" : "246" },
+    { "ffca8a" : "8ac", "e0975c" : "68a", "a85636" : "468", "6f2919" : "246", "f32200" : "f6fbfb", "dc1f00" : "d7e8e8", "be1b00" : "8fa7a3", "951500" : "5d6d69", "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" },
     //placeholder brown
-    { "ffe2c5" : "ca8", "ffc181" : "a86", "d39c6c" : "864", "c7815b" : "642" },
+    { "ffca8a" : "ca8", "e0975c" : "a86", "a85636" : "864", "6f2919" : "642", "f32200" : "f6fbfb", "dc1f00" : "d7e8e8", "be1b00" : "8fa7a3", "951500" : "5d6d69", "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" },
     //placeholder grey
-    { "ffe2c5" : "eee", "ffc181" : "ccc", "d39c6c" : "aaa", "c7815b" : "888" }
+    { "ffca8a" : "eee", "e0975c" : "ccc", "a85636" : "aaa", "6f2919" : "888", "f32200" : "f6fbfb", "dc1f00" : "d7e8e8", "be1b00" : "8fa7a3", "951500" : "5d6d69", "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" }
   ],
-  "undyColor" : [
-    { "dc1f00" : "579", "be1b00" : "357", "951500" : "135" },
-    { "dc1f00" : "975", "be1b00" : "753", "951500" : "531" },
-    { "dc1f00" : "bbb", "be1b00" : "999", "951500" : "777" }
-  ],
-  "hairColor" : [
-    { "d9c189" : "579", "a38d59" : "357", "735e3a" : "135" },
-    { "d9c189" : "975", "a38d59" : "753", "735e3a" : "531" },
-    { "d9c189" : "bbb", "a38d59" : "999", "735e3a" : "777" }
-  ]
+  "undyColor" : [],
+  "hairColor" : []
 }
