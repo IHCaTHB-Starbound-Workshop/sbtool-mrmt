@@ -104,7 +104,7 @@
   "genders" : [
     {
        "name" : "male",
-      "image" : "/interface/title/plantmale.png",
+      "image" : "/interface/title/plantmaleicon.png",
       "characterImage" : "/interface/title/mrmtmale.png",
       "hair" : [ "1" ],
       "shirt" : [ "floranfurnivourchest", "floranhunterchest", "floranleafchest", "floranpeltchest", "floransurvivalistchest" ],
@@ -116,7 +116,7 @@
     },
     {
       "name" : "female",
-      "image" : "/interface/title/plantfemale.png",
+      "image" : "/interface/title/plantfemaleicon.png",
       "characterImage" : "/interface/title/mrmtfemale.png",
       "hair" : [ "1" ],
       "shirt" : [ "floranfurnivourchest", "floranhunterchest", "floranleafchest", "floranpeltchest", "floransurvivalistchest" ],
