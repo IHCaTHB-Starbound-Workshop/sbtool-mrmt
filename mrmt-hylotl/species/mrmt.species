@@ -9,7 +9,7 @@
 
   "nameGen" : [ "/species/hylotlmalenamegen.config:names", "/species/hylotlfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/hylotlhurt_male1.ogg", "/sfx/humanoid/hylotlhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Fins", "Shirt", "Legwear", "Belly colour", "Fin colour", "Shirt colour", "Legwear colour", "HYLOTL", "Personality" ],
+  "charGenTextLabels" : [ "Skin colour", "Fins", "Shirt", "Legwear", "Belly colour", "Fin colour", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
   "skull" : "/humanoid/hylotl/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=80b3ffFF?replace=31a6ffFF=5476f0FF",
   "defaultBlueprints" : {
