@@ -91,52 +91,17 @@
       ]
     },
    {
-      "drawables" : [
-        {
-          "image" : "/cinematics/respawn/hylotl/layer1.png:<frame>"
-        }
-      ],
-      "keyframes" : [
-        {
-          "timecode" : 1.5,
-          "zoom" : 1.5,
-          "alpha" : 0,
-          "frame" : 0,
-          "position" : [478, 253]
-        },
-        {
-          "timecode" : 2.5,
-          "zoom" : 1.5,
-          "alpha" : 1,
-          "frame" : 0,
-          "position" : [478, 253]
-        },
-        {
-          "timecode" : 11,
-          "alpha" : 1,
-          "zoom" : 1.5,
-          "frame" : 93.999
-        },
-        {
-          "timecode" : 11.75,
-          "alpha" : 0,
-          "zoom" : 1.5,
-          "frame" : 93.999
-        }
-      ]
-    },
-    {
       "avatar" : "fullneutralnude",
       "keyframes" : [
         {
-          "timecode" : 3.5,
+          "timecode" : 10.75,
           "zoom" : 1.5,
           "alpha" : 0,
           "frame" : 0,
           "position" : [478, 269]
         },
         {
-          "timecode" : 4,
+          "timecode" : 10.795,
           "zoom" : 1.5,
           "alpha" : 1,
           "frame" : 0,
@@ -153,42 +118,42 @@
           "timecode" : 12,
           "alpha" : 0,
           "zoom" : 1.5,
-          "frame" : 93.999
+          "frame" : 111.999
         }
       ]
     },
     {
       "drawables" : [
         {
-          "image" : "/cinematics/respawn/hylotl/layer2.png:<frame>"
+          "image" : "/cinematics/respawn/hylotl/layer1.png:<frame>"
         }
       ],
       "keyframes" : [
         {
-          "timecode" : 1.5,
+          "timecode" : 2.4995,
           "zoom" : 1.5,
           "alpha" : 0,
           "frame" : 0,
-          "position" : [478, 253]
+          "position" : [478, 268]
         },
         {
           "timecode" : 2.5,
           "zoom" : 1.5,
           "alpha" : 1,
           "frame" : 0,
-          "position" : [478, 253]
+          "position" : [478, 268]
         },
         {
           "timecode" : 11,
           "alpha" : 1,
           "zoom" : 1.5,
-          "frame" : 93.999
+          "frame" : 108.999
         },
         {
-          "timecode" : 11.75,
+          "timecode" : 11.15,
           "alpha" : 0,
           "zoom" : 1.5,
-          "frame" : 93.999
+          "frame" : 108.999
         }
       ]
     }
