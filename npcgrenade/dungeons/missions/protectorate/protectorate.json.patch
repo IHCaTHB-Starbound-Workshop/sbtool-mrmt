@@ -1,0 +1,116 @@
+[ //lobby x 1472-1912 y 1504
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2001,
+      "name": "",
+      "properties": {
+        "npc": "human",
+        "typeName": "protectoratelobbystudent2"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1579,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2002,
+      "name": "",
+      "properties": {
+        "npc": "human",
+        "typeName": "protectoratelobbystudent2"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1578,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2003,
+      "name": "",
+      "properties": {
+        "npc": "human",
+        "typeName": "protectoratelobbystudent2"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1577,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2004,
+      "name": "",
+      "properties": {
+        "npc": "human",
+        "typeName": "protectoratelobbystudent2"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1576,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2005,
+      "name": "",
+      "properties": {
+        "npc": "human",
+        "typeName": "protectoratelobbystudent2"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1575,
+      "y": 1504
+    }
+  },
+  {
+    "op": "add",
+    "path": "/layers/8/objects/-",
+    "value": {
+      "height": 8,
+      "id": 2006,
+      "name": "",
+      "properties": {
+        "npc": "human",
+        "typeName": "protectoratelobbystudent2"
+      },
+      "rotation": 0,
+      "type": "",
+      "visible": true,
+      "width": 8,
+      "x": 1574,
+      "y": 1504
+    }
+  }
+]
