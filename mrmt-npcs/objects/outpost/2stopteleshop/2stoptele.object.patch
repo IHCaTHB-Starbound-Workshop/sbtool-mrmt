@@ -6,5 +6,61 @@
       "type": "mrmtvisitor",
       "species": ["mrmt"]
     }
+  },
+  {
+    "op": "add",
+    "path": "/npctypes/-",
+    "value": {
+      "type": "mrmtvisitor",
+      "species": ["mrmt"]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/npctypes/-",
+    "value": {
+      "type": "mrmtvisitor",
+      "species": ["mrmt"]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/npctypes/-",
+    "value": {
+      "type": "mrmtvisitor",
+      "species": ["mrmt"]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/npctypes/-",
+    "value": {
+      "type": "mrmtvisitor",
+      "species": ["mrmt"]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/npctypes/-",
+    "value": {
+      "type": "mrmtvisitor",
+      "species": ["mrmt"]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/npctypes/-",
+    "value": {
+      "type": "mrmtvisitor",
+      "species": ["mrmt"]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/npctypes/-",
+    "value": {
+      "type": "mrmtvisitor",
+      "species": ["mrmt"]
+    }
   }
 ]

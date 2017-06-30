@@ -1,5 +1,5 @@
 {
-  "type" : "spacepioneervisitor",
+  "type" : "mrmtvisitor",
   "baseType" : "outpostvisitor",
 
   "scriptConfig" : {
