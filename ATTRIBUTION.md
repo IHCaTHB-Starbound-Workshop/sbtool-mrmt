@@ -9,7 +9,7 @@ IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
 
 [Chucklefish], developer and publisher of [Starbound].
 
-[Mr. Skittles], [Skittle Race Mod].
+[Miss Skittles], [Skittle Race Mod].
 
 [The Starbound official forums modding community], constant support and just being awesome in general.
 
@@ -39,6 +39,6 @@ and viewers, like you.
 
 [The Starbound official forums modding community]: http://community.playstarbound.com/forums/111
 
-[Mr. Skittles]:
+[Miss Skittles]: http://community.playstarbound.com/members/96422/
 
-[Skittles Race Mod]:
+[Skittles Race Mod]: http://community.playstarbound.com/resources/956/
