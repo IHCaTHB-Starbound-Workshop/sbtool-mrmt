@@ -1,7 +1,12 @@
 [
   {
     "op": "copy",
+    "path": "/scriptConfig/merchant/categories/.mrmtname.",
+    "from": "/scriptConfig/merchant/categories/.mrmtbase."
+  },
+  {
+    "op": "copy",
     "path": "/items/.mrmtname.",
-    "from": "/items/npcs"
+    "from": "/items/.mrmtbase."
   }
 ]
