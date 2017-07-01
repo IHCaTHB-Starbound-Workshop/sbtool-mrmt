@@ -3,64 +3,64 @@
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   },
   {
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   },
   {
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   },
   {
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   },
   {
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   },
   {
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   },
   {
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   },
   {
     "op": "add",
     "path": "/npctypes/-",
     "value": {
-      "type": "mrmtvisitor",
-      "species": ["mrmt"]
+      "type": ".mrmtname.visitor",
+      "species": [".mrmtname."]
     }
   }
 ]

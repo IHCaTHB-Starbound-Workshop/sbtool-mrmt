@@ -1,15 +1,15 @@
 {
 
-  "kind" : "mrmt",
+  "kind" : "..mrmtname.name.",
   "charCreationTooltip" : {
-    "title" : "mrmt",
+    "title" : "..mrmtname.name.",
     "subTitle" : "Minimalist Race Mod Template",
     "description" : "Species that utilize existing assets where it can."
   },
 
   "nameGen" : [ "/species/aviannamegen.config:names", "/species/aviannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/avianhurt_male1.ogg", "/sfx/humanoid/avianhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Feather colour", "Plumage", "Shirt", "Legwear", "Beak", "Fluff", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
+  "charGenTextLabels" : [ "Feather colour", "Plumage", "Shirt", "Legwear", "Beak", "Fluff", "Shirt colour", "Legwear colour", "..mrmtname.name.", "Personality" ],
   "skull" : "/humanoid/avian/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ff7a69FF?replace=31a6ffFF=d93a3aFF",
   "defaultBlueprints" : {
@@ -105,7 +105,7 @@
     {
        "name" : "male",
       "image" : "/interface/title/male.png",
-      "characterImage" : "/interface/title/mrmtmale.png",
+      "characterImage" : "/interface/title/..mrmtname.name.male.png",
       "hair" : [ "1" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
@@ -117,7 +117,7 @@
     {
       "name" : "female",
       "image" : "/interface/title/female.png",
-      "characterImage" : "/interface/title/mrmtfemale.png",
+      "characterImage" : "/interface/title/..mrmtname.name.female.png",
       "hair" : [ "1" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],

@@ -1,7 +1,7 @@
 [
   {
     "op" : "copy",
-    "path" : "/initialquests/mrmt",
+    "path" : "/initialquests/.mrmtname.",
     "from" : "/initialquests/hylotl"
   }
 ]

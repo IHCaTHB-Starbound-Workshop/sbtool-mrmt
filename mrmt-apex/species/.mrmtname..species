@@ -1,13 +1,13 @@
 {
-  "kind" : "mrmt",
+  "kind" : ".mrmtname.",
   "charCreationTooltip" : {
-    "title" : "mrmt",
+    "title" : ".mrmtname.",
     "subTitle" : "Minimalist Race Mod Template",
     "description" : "Species that utilize existing assets where it can."
   },
   "nameGen" : [ "/species/apexmalenamegen.config:names", "/species/apexfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Skin colour", "Beard style", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Skin colour", "Beard style", "Shirt colour", "Legwear colour", ".mrmtname.", "Personality" ],
   "skull" : "/humanoid/apex/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=80f4ffFF?replace=31a6ffFF=39b8e3FF",
   "defaultBlueprints" : {
@@ -103,7 +103,7 @@
     {
       "name" : "male",
       "image" : "/interface/title/male.png",
-      "characterImage" : "/interface/title/mrmtmale.png",
+      "characterImage" : "/interface/title/.mrmtname.male.png",
       "hairGroup" : "hairmale",
       "hair" : [ "1" ],
       "shirt" : [ "apexcommanderjacket", "apexnavyjacket", "apexofficerjacket", "apexspecialistjacket" ],
@@ -116,7 +116,7 @@
     {
       "name" : "female",
       "image" : "/interface/title/female.png",
-      "characterImage" : "/interface/title/mrmtfemale.png",
+      "characterImage" : "/interface/title/.mrmtname.female.png",
       "hairGroup" : "hairfemale",
       "hair" : [ "1" ],
       "shirt" : [ "apexcommanderjacket", "apexnavyjacket", "apexofficerjacket", "apexspecialistjacket" ],

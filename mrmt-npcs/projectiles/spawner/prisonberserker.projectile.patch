@@ -2,6 +2,6 @@
   {
     "op" : "add",
     "path" : "/scriptConfig/options/0/species/-",
-    "value" : "mrmt"
+    "value" : ".mrmtname."
   }
 ]

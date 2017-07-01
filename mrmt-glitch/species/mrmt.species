@@ -1,15 +1,15 @@
 {
 
-  "kind" : "mrmt",
+  "kind" : ".mrmtname.",
   "charCreationTooltip" : {
-    "title" : "mrmt",
+    "title" : ".mrmtname.",
     "subTitle" : "Minimalist Race Mod Template",
     "description" : "Species that utilize existing assets where it can."
   },
 
   "nameGen" : [ "/species/glitchmalenamegen.config:names", "/species/glitchfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/robothurt_male1.ogg", "/sfx/humanoid/robothurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Paint colour", "Head mod", "Shirt", "Legwear", "Lights colour", "Detail colour", "Shirt colour", "Legwear colour", "MRMT", "Personality" ],
+  "charGenTextLabels" : [ "Paint colour", "Head mod", "Shirt", "Legwear", "Lights colour", "Detail colour", "Shirt colour", "Legwear colour", ".mrmtname.", "Personality" ],
   "skull" : "/humanoid/glitch/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffbc47FF?replace=31a6ffFF=e87b07FF",
   "defaultBlueprints" : {
@@ -105,7 +105,7 @@
     {
        "name" : "male",
       "image" : "/interface/title/plug.png",
-      "characterImage" : "/interface/title/mrmtmale.png",
+      "characterImage" : "/interface/title/.mrmtname.male.png",
       "hair" : [ "1" ],
       "shirt" : [ "craftsmenchest", "merchantchest", "noblechest", "peasantchest" ],
       "pants" : [ "craftsmenlegs", "merchantlegs", "noblelegs", "peasantlegs" ],
@@ -117,7 +117,7 @@
     {
       "name" : "female",
       "image" : "/interface/title/socket.png",
-      "characterImage" : "/interface/title/mrmtfemale.png",
+      "characterImage" : "/interface/title/.mrmtname.female.png",
       "hair" : [ "1" ],
       "shirt" : [ "craftsmenchest", "merchantchest", "noblechest", "peasantchest" ],
       "pants" : [ "craftsmenlegs", "merchantlegs", "noblelegs", "peasantlegs" ],

@@ -1,7 +1,7 @@
 [
   {
     "op" : "copy",
-    "path" : "/defaultCodexes/mrmt",
+    "path" : "/defaultCodexes/.mrmtname.",
     "from" : "/defaultCodexes/novakid"
   }
 ]

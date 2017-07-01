@@ -1,5 +1,5 @@
 {
-  "type" : "mrmtvisitor",
+  "type" : ".mrmtname.visitor",
   "baseType" : "outpostvisitor",
 
   "scriptConfig" : {

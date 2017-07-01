@@ -1,7 +1,7 @@
 [
   {
     "op" : "copy",
-    "path" : "/speciesShips/mrmt",
+    "path" : "/speciesShips/.mrmtname.",
     "from" : "/speciesShips/apex"
   }
 ]
