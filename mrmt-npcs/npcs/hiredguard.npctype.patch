@@ -1,0 +1,7 @@
+[
+  {
+    "op": "copy",
+    "path": "/items/.mrmtname.",
+    "from": "/items/.mrmtbase."
+  }
+]
