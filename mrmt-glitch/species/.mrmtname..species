@@ -97,7 +97,7 @@
 
 //  "bodyColorAsFacialMaskSubColor" : true,
 
-//  "hairColorAsBodySubColor" : true,
+  "hairColorAsBodySubColor" : true,
 //  "headOptionAsFacialhair" : true,
   "headOptionAsHairColor" : true,
 
