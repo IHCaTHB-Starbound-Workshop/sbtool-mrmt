@@ -1,0 +1,51 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/tagCriteria/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/.mrmtname.",
+    "from" : "/mrmtType/tagCriteria/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/enclosedArea/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/.mrmtname.",
+    "from" : "/mrmtType/enclosedArea/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/otherDeed/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/.mrmtname.",
+    "from" : "/mrmtType/otherDeed/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/severe/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/.mrmtname.",
+    "from" : "/mrmtType/severe/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/final/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/.mrmtname.",
+    "from" : "/mrmtType/final/.mrmtdialtype."
+  }
+]]

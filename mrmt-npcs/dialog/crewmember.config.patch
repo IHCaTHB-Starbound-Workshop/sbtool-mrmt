@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/converse/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/.mrmtname.",
+    "from" : "/mrmtType/converse/.mrmtdialtype."
+  }
+]

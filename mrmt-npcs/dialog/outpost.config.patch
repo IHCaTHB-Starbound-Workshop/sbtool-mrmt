@@ -1,0 +1,157 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/converse/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/.mrmtname.",
+    "from" : "/mrmtType/converse/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/flee/helpme/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/helpme/.mrmtname.",
+    "from" : "/mrmtType/flee/helpme/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/flee/helpthem/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/helpthem/.mrmtname.",
+    "from" : "/mrmtType/flee/helpthem/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/flee/encourage/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/encourage/.mrmtname.",
+    "from" : "/mrmtType/flee/encourage/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/flee/safe/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/flee/safe/.mrmtname.",
+    "from" : "/mrmtType/flee/safe/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "add",
+    "path" : "/converse/apex/.mrmtname.",
+    "value" : "Greetings, .mrmttitlename."
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/avian/.mrmtname.",
+    "value" : "Greetings, .mrmttitlename."
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/floran/.mrmtname.",
+    "value" : "Greetings, .mrmttitlename."
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/glitch/.mrmtname.",
+    "value" : "Greetings, .mrmttitlename."
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/human/.mrmtname.",
+    "value" : "Greetings, .mrmttitlename."
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/hylotl/.mrmtname.",
+    "value" : "Greetings, .mrmttitlename."
+  },
+  {
+    "op" : "add",
+    "path" : "/converse/novakid/.mrmtname.",
+    "value" : "Greetings, .mrmttitlename."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtReacType/converse/apex/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/apex/.mrmtname.",
+    "from" : "/mrmtReacType/converse/apex/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtReacType/converse/avian/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/avian/.mrmtname.",
+    "from" : "/mrmtReacType/converse/avian/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtReacType/converse/floran/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/floran/.mrmtname.",
+    "from" : "/mrmtReacType/converse/floran/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtReacType/converse/glitch/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/glitch/.mrmtname.",
+    "from" : "/mrmtReacType/converse/glitch/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtReacType/converse/human/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/human/.mrmtname.",
+    "from" : "/mrmtReacType/converse/human/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtReacType/converse/hylotl/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/hylotl/.mrmtname.",
+    "from" : "/mrmtReacType/converse/hylotl/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtReacType/converse/novakid/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/novakid/.mrmtname.",
+    "from" : "/mrmtReacType/converse/novakid/.mrmtdialtype."
+  }
+]]

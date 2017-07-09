@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/beacon/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/.mrmtname.",
+    "from" : "/mrmtType/beacon/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/rent/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/.mrmtname.",
+    "from" : "/mrmtType/rent/.mrmtdialtype."
+  }
+]]

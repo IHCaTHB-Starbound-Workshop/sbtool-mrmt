@@ -1,0 +1,121 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/merchantStart/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/merchantStart/.mrmtname.",
+    "from" : "/mrmtType/merchantStart/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/merchantEnd/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/merchantEnd/.mrmtname.",
+    "from" : "/mrmtType/merchantEnd/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/follow/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/follow/.mrmtname.",
+    "from" : "/mrmtType/follow/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/welcome/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/welcome/.mrmtname.",
+    "from" : "/mrmtType/welcome/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/tout/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/tout/.mrmtname.",
+    "from" : "/mrmtType/tout/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/tagCriteria/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/tagCriteria/.mrmtname.",
+    "from" : "/mrmtType/tagCriteria/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/enclosedArea/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/enclosedArea/.mrmtname.",
+    "from" : "/mrmtType/enclosedArea/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/otherDeed/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/otherDeed/.mrmtname.",
+    "from" : "/mrmtType/otherDeed/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/severe/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/severe/.mrmtname.",
+    "from" : "/mrmtType/severe/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/final/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/final/.mrmtname.",
+    "from" : "/mrmtType/final/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/beacon/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/beacon/.mrmtname.",
+    "from" : "/mrmtType/beacon/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/rent/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/rent/.mrmtname.",
+    "from" : "/mrmtType/rent/.mrmtdialtype."
+  }
+]]

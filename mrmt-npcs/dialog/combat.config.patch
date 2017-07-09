@@ -1,0 +1,71 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/reattack/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/reattack/.mrmtname.",
+    "from" : "/mrmtType/reattack/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/attack/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/attack/.mrmtname.",
+    "from" : "/mrmtType/attack/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/killedTarget/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/killedTarget/.mrmtname.",
+    "from" : "/mrmtType/killedTarget/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/lostTarget/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/lostTarget/.mrmtname.",
+    "from" : "/mrmtType/lostTarget/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/outOfSight/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/outOfSight/.mrmtname.",
+    "from" : "/mrmtType/outOfSight/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/cantReach/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/cantReach/.mrmtname.",
+    "from" : "/mrmtType/cantReach/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/cheerOn/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/cheerOn/.mrmtname.",
+    "from" : "/mrmtType/cheerOn/.mrmtdialtype."
+  }
+]]

@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/greeting/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/greeting/.mrmtname.",
+    "from" : "/mrmtType/greeting/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/mrmtType/converse/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/converse/.mrmtname.",
+    "from" : "/mrmtType/converse/.mrmtdialtype."
+  }
+]]

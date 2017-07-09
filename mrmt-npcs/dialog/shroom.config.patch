@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/hail/floran/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/hail/floran/.mrmtname.",
+    "from" : "/hail/floran/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/start/default/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/start/default/.mrmtname.",
+    "from" : "/start/default/.mrmtdialtype."
+  }
+]]
