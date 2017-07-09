@@ -1,0 +1,61 @@
+[[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/offer/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/offer/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/roleDescription/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/roleDescription/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/respawned/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/respawned/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/unfollow/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/unfollow/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/follow/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/follow/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/cantreach/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/cantreach/.mrmtdialtype."
+  }
+]]

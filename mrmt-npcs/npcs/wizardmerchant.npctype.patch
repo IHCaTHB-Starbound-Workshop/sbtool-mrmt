@@ -1,0 +1,21 @@
+[[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/merchant/start/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/merchant/start/.mrmtname.",
+    "from": "/mrmtType/dialog/merchant/start/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/merchant/end/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/merchant/end/.mrmtname.",
+    "from": "/mrmtType/dialog/merchant/end/.mrmtdialtype."
+  }
+]]

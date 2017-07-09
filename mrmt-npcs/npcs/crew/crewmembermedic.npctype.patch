@@ -1,0 +1,31 @@
+[[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/roleDescription/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/roleDescription/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/fieldBenefit/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/fieldBenefit/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/crewmember/combatBenefit/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
+    "from": "/mrmtType/dialog/crewmember/combatBenefit/.mrmtdialtype."
+  }
+]]
