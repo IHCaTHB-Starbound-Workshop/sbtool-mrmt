@@ -2,6 +2,6 @@
   {
     "op": "copy",
     "path": "/items/.mrmtname.",
-    "from": "/items/.mrmtbase."
+    "from": "/items/.mrmtgeartype."
   }
 ]

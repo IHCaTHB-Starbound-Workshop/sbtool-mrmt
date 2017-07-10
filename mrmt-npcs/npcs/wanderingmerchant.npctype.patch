@@ -2,11 +2,11 @@
   {
     "op": "copy",
     "path": "/scriptConfig/merchant/categories/.mrmtname.",
-    "from": "/scriptConfig/merchant/categories/.mrmtbase."
+    "from": "/scriptConfig/merchant/categories/.mrmtgeartype."
   },
   {
     "op": "copy",
     "path": "/items/.mrmtname.",
-    "from": "/items/.mrmtbase."
+    "from": "/items/.mrmtgeartype."
   }
 ]

@@ -2,6 +2,6 @@
   {
     "op": "copy",
     "path": "/scriptConfig/chatSounds/.mrmtname.",
-    "from": "/scriptConfig/chatSounds/.mrmtbase."
+    "from": "/scriptConfig/chatSounds/.mrmtdialtype."
   }
 ]
