@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "test",
+    "path" : "/mrmttype/.mrmtdialtype.Description"
+  },
+  {
+    "op" : "copy",
+    "path" : "/.mrmtname.Description",
+    "from" : "/mrmtType/.mrmtdialtype.Description"
+  }
+]
