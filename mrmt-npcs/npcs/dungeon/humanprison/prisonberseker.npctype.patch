@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "/mrmtType/dialog/attack/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/attack/.mrmtname.",
+    "from": "/mrmtType/dialog/attack/.mrmtdialtype."
+  }
+]
