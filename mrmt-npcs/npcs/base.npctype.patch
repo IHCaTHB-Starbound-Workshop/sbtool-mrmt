@@ -1,5 +1,9 @@
 [
   {
+    "op" : "test",
+    "path" : "/scriptConfig/chatSounds/.mrmtdialtype."
+  },
+  {
     "op": "copy",
     "path": "/scriptConfig/chatSounds/.mrmtname.",
     "from": "/scriptConfig/chatSounds/.mrmtdialtype."
