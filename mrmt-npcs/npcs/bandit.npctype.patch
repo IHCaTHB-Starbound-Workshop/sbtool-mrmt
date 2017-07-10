@@ -1,11 +1,11 @@
 [
   {
     "op": "test",
-    "path": "/mrmtType/dialog/converse/.mrmtdialtype."
+    "path": "/mrmtType/dialog/attack/.mrmtdialtype."
   },
   {
     "op": "copy",
-    "path": "/scriptConfig/dialog/converse/.mrmtname.",
-    "from": "/mrmtType/dialog/converse/.mrmtdialtype."
+    "path": "/scriptConfig/dialog/attack/.mrmtname.",
+    "from": "/mrmtType/dialog/attack/.mrmtdialtype."
   }
 ]
