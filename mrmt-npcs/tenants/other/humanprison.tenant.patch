@@ -1,5 +1,9 @@
 [
   {
+    "op" : "test",
+    "path" : "/tenants/0/species/0"
+  },
+  {
     "op": "add",
     "path": "/tenants/0/species/-",
     "value": ".mrmtname."
