@@ -1,0 +1,21 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/outOfRangeText/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/outOfRangeText/.mrmtname.",
+    "from" : "/outOfRangeText/.mrmtdialtype."
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/nothingThereText/.mrmtdialtype."
+  },
+  {
+    "op" : "copy",
+    "path" : "/nothingThereText/.mrmtname.",
+    "from" : "/nothingThereText/.mrmtdialtype."
+  }
+]]
