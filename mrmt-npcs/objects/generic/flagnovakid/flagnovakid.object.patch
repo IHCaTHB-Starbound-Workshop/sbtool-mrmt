@@ -1,7 +1,7 @@
 [
   {
     "op" : "test",
-    "path" : "/mrmttype/.mrmtdialtype.Description"
+    "path" : "/mrmtType/.mrmtdialtype.Description"
   },
   {
     "op" : "copy",
