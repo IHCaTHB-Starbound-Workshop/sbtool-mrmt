@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/beacon/.mrmtname.",
+    "value": {
+      "default": [
+        "You need .mrmttitlename.?",
+        "You need .mrmttitlename. for sssomething?",
+        "Sssurprise, .mrmttitlename. is here!",
+        "You were sssearching for .mrmttitlename.?",
+        "Were you sssearching for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/rent/.mrmtname.",
+    "value": {
+      "default": [
+        "Here isss a present for you!",
+        ".mrmttitlename. got you a thing! Take it!",
+        ".mrmttitlename. got you this to ssay thank you.",
+        ".mrmttitlename. has a thing for you!",
+        ".mrmttitlename. likes house, .mrmttitlename. ssay thank you with present."
+      ]
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/beacon/.mrmtname.",
+    "value": {
+      "default": [
+        "You need me?",
+        "You need me for sssomething?",
+        "Sssurprise, me is here!",
+        "You were sssearching for me?",
+        "Were you sssearching for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/rent/.mrmtname.",
+    "value": {
+      "default": [
+        "Here isss a present for you!",
+        "Me got you a thing! Take it!",
+        "Me got you this to ssay thank you.",
+        "Me has a thing for you!",
+        "Me likes house, me ssay thank you with present."
+      ]
+    }
+  }
+]
