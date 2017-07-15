@@ -1,21 +1,21 @@
 [[
   {
     "op" : "test",
-    "path" : "/mrmtType/accuse/.mrmtdialtype."
+    "path" : "/accuse/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/accuse/.mrmtname.",
-    "from" : "/mrmtType/accuse/.mrmtdialtype."
+    "from" : "/accuse/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/alert/.mrmtdialtype."
+    "path" : "/alert/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/alert/.mrmtname.",
-    "from" : "/mrmtType/alert/.mrmtdialtype."
+    "from" : "/alert/.mrmtdialtype."
   }
 ]]

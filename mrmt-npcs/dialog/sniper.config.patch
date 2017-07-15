@@ -1,11 +1,11 @@
 [
   {
     "op" : "test",
-    "path" : "/mrmtType/attack/.mrmtdialtype."
+    "path" : "/attack/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/attack/.mrmtname.",
-    "from" : "/mrmtType/attack/.mrmtdialtype."
+    "from" : "/attack/.mrmtdialtype."
   }
 ]

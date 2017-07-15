@@ -1,52 +1,52 @@
 [[
   {
     "op" : "test",
-    "path" : "/mrmtType/converse/.mrmtdialtype."
+    "path" : "/converse/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/converse/.mrmtname.",
-    "from" : "/mrmtType/converse/.mrmtdialtype."
+    "from" : "/converse/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/flee/helpme/.mrmtdialtype."
+    "path" : "/flee/helpme/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/flee/helpme/.mrmtname.",
-    "from" : "/mrmtType/flee/helpme/.mrmtdialtype."
+    "from" : "/flee/helpme/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/flee/helpthem/.mrmtdialtype."
+    "path" : "/flee/helpthem/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/flee/helpthem/.mrmtname.",
-    "from" : "/mrmtType/flee/helpthem/.mrmtdialtype."
+    "from" : "/flee/helpthem/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/flee/encourage/.mrmtdialtype."
+    "path" : "/flee/encourage/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/flee/encourage/.mrmtname.",
-    "from" : "/mrmtType/flee/encourage/.mrmtdialtype."
+    "from" : "/flee/encourage/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/flee/safe/.mrmtdialtype."
+    "path" : "/flee/safe/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/flee/safe/.mrmtname.",
-    "from" : "/mrmtType/flee/safe/.mrmtdialtype."
+    "from" : "/flee/safe/.mrmtdialtype."
   }
 ],[
   {

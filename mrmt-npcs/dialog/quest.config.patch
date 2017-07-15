@@ -1,291 +1,291 @@
 [[
   {
     "op" : "test",
-    "path" : "/mrmtType/share_secret/pleaseTakeReply/.mrmtdialtype."
+    "path" : "/share_secret/pleaseTakeReply/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/share_secret/pleaseTakeReply/.mrmtname.",
-    "from" : "/mrmtType/share_secret/pleaseTakeReply/.mrmtdialtype."
+    "from" : "/share_secret/pleaseTakeReply/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/intimidate/intimidated/.mrmtdialtype."
+    "path" : "/intimidate/intimidated/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/intimidate/intimidated/.mrmtname.",
-    "from" : "/mrmtType/intimidate/intimidated/.mrmtdialtype."
+    "from" : "/intimidate/intimidated/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/intimidate/notIntimidated/.mrmtdialtype."
+    "path" : "/intimidate/notIntimidated/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/intimidate/notIntimidated/.mrmtname.",
-    "from" : "/mrmtType/intimidate/notIntimidated/.mrmtdialtype."
+    "from" : "/intimidate/notIntimidated/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/bribe/giftAccepted/.mrmtdialtype."
+    "path" : "/bribe/giftAccepted/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/bribe/giftAccepted/.mrmtname.",
-    "from" : "/mrmtType/bribe/giftAccepted/.mrmtdialtype."
+    "from" : "/bribe/giftAccepted/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/bribe/giftAccepted2/.mrmtdialtype."
+    "path" : "/bribe/giftAccepted2/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/bribe/giftAccepted2/.mrmtname.",
-    "from" : "/mrmtType/bribe/giftAccepted2/.mrmtdialtype."
+    "from" : "/bribe/giftAccepted2/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/bribe/requestAdditionToHouse/.mrmtdialtype."
+    "path" : "/bribe/requestAdditionToHouse/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/bribe/requestAdditionToHouse/.mrmtname.",
-    "from" : "/mrmtType/bribe/requestAdditionToHouse/.mrmtdialtype."
+    "from" : "/bribe/requestAdditionToHouse/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/gift/giftAccepted/.mrmtdialtype."
+    "path" : "/gift/giftAccepted/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/gift/giftAccepted/.mrmtname.",
-    "from" : "/mrmtType/gift/giftAccepted/.mrmtdialtype."
+    "from" : "/gift/giftAccepted/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/gift/giftAccepted2/.mrmtdialtype."
+    "path" : "/gift/giftAccepted2/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/gift/giftAccepted2/.mrmtname.",
-    "from" : "/mrmtType/gift/giftAccepted2/.mrmtdialtype."
+    "from" : "/gift/giftAccepted2/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/gift/requestAdditionToHouse/.mrmtdialtype."
+    "path" : "/gift/requestAdditionToHouse/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/gift/requestAdditionToHouse/.mrmtname.",
-    "from" : "/mrmtType/gift/requestAdditionToHouse/.mrmtdialtype."
+    "from" : "/gift/requestAdditionToHouse/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/return_stolen/objectTaken/.mrmtdialtype."
+    "path" : "/return_stolen/objectTaken/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/return_stolen/objectTaken/.mrmtname.",
-    "from" : "/mrmtType/return_stolen/objectTaken/.mrmtdialtype."
+    "from" : "/return_stolen/objectTaken/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/collect_fine/fineCollected/.mrmtdialtype."
+    "path" : "/collect_fine/fineCollected/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/collect_fine/fineCollected/.mrmtname.",
-    "from" : "/mrmtType/collect_fine/fineCollected/.mrmtdialtype."
+    "from" : "/collect_fine/fineCollected/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/collect_gift/giftProvided/.mrmtdialtype."
+    "path" : "/collect_gift/giftProvided/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/collect_gift/giftProvided/.mrmtname.",
-    "from" : "/mrmtType/collect_gift/giftProvided/.mrmtdialtype."
+    "from" : "/collect_gift/giftProvided/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/request_craft/giftProvided/.mrmtdialtype."
+    "path" : "/request_craft/giftProvided/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/request_craft/giftProvided/.mrmtname.",
-    "from" : "/mrmtType/request_craft/giftProvided/.mrmtdialtype."
+    "from" : "/request_craft/giftProvided/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/borrow/giftProvided/.mrmtdialtype."
+    "path" : "/borrow/giftProvided/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/borrow/giftProvided/.mrmtname.",
-    "from" : "/mrmtType/borrow/giftProvided/.mrmtdialtype."
+    "from" : "/borrow/giftProvided/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/extort/giftProvided/.mrmtdialtype."
+    "path" : "/extort/giftProvided/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/extort/giftProvided/.mrmtname.",
-    "from" : "/mrmtType/extort/giftProvided/.mrmtdialtype."
+    "from" : "/extort/giftProvided/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/hat/crafting/.mrmtdialtype."
+    "path" : "/hat/crafting/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/hat/crafting/.mrmtname.",
-    "from" : "/mrmtType/hat/crafting/.mrmtdialtype."
+    "from" : "/hat/crafting/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/hat/crafted/.mrmtdialtype."
+    "path" : "/hat/crafted/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/hat/crafted/.mrmtname.",
-    "from" : "/mrmtType/hat/crafted/.mrmtdialtype."
+    "from" : "/hat/crafted/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/helmet/crafting/.mrmtdialtype."
+    "path" : "/helmet/crafting/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/helmet/crafting/.mrmtname.",
-    "from" : "/mrmtType/helmet/crafting/.mrmtdialtype."
+    "from" : "/helmet/crafting/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/helmet/crafted/.mrmtdialtype."
+    "path" : "/helmet/crafted/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/helmet/crafted/.mrmtname.",
-    "from" : "/mrmtType/helmet/crafted/.mrmtdialtype."
+    "from" : "/helmet/crafted/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/new_stock/trade/.mrmtdialtype."
+    "path" : "/new_stock/trade/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/new_stock/trade/.mrmtname.",
-    "from" : "/mrmtType/new_stock/trade/.mrmtdialtype."
+    "from" : "/new_stock/trade/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/kidnapping/kidnappersDead/.mrmtdialtype."
+    "path" : "/kidnapping/kidnappersDead/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/kidnapping/kidnappersDead/.mrmtname.",
-    "from" : "/mrmtType/kidnapping/kidnappersDead/.mrmtdialtype."
+    "from" : "/kidnapping/kidnappersDead/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/kidnapping/followHome/.mrmtdialtype."
+    "path" : "/kidnapping/followHome/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/kidnapping/followHome/.mrmtname.",
-    "from" : "/mrmtType/kidnapping/followHome/.mrmtdialtype."
+    "from" : "/kidnapping/followHome/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/escort/found/.mrmtdialtype."
+    "path" : "/escort/found/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/escort/found/.mrmtname.",
-    "from" : "/mrmtType/escort/found/.mrmtdialtype."
+    "from" : "/escort/found/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/barter/trade/.mrmtdialtype."
+    "path" : "/barter/trade/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/barter/trade/.mrmtname.",
-    "from" : "/mrmtType/barter/trade/.mrmtdialtype."
+    "from" : "/barter/trade/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/escort_trade/collectDelivery/.mrmtdialtype."
+    "path" : "/escort_trade/collectDelivery/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/escort_trade/collectDelivery/.mrmtname.",
-    "from" : "/mrmtType/escort_trade/collectDelivery/.mrmtdialtype."
+    "from" : "/escort_trade/collectDelivery/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/escort_trade/provideDelivery/.mrmtdialtype."
+    "path" : "/escort_trade/provideDelivery/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/escort_trade/provideDelivery/.mrmtname.",
-    "from" : "/mrmtType/escort_trade/provideDelivery/.mrmtdialtype."
+    "from" : "/escort_trade/provideDelivery/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/kill_npcs/assistantIntro/.mrmtdialtype."
+    "path" : "/kill_npcs/assistantIntro/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/kill_npcs/assistantIntro/.mrmtname.",
-    "from" : "/mrmtType/kill_npcs/assistantIntro/.mrmtdialtype."
+    "from" : "/kill_npcs/assistantIntro/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/kill_npc/surrender/.mrmtdialtype."
+    "path" : "/kill_npc/surrender/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/kill_npc/surrender/.mrmtname.",
-    "from" : "/mrmtType/kill_npc/surrender/.mrmtdialtype."
+    "from" : "/kill_npc/surrender/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/kill_npc/betray/.mrmtdialtype."
+    "path" : "/kill_npc/betray/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/kill_npc/betray/.mrmtname.",
-    "from" : "/mrmtType/kill_npc/betray/.mrmtdialtype."
+    "from" : "/kill_npc/betray/.mrmtdialtype."
   }
 ]]

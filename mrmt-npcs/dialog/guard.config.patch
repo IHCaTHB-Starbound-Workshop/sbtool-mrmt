@@ -1,11 +1,11 @@
 [
   {
     "op" : "test",
-    "path" : "/mrmtType/hail/.mrmtdialtype."
+    "path" : "/hail/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/hail/.mrmtname.",
-    "from" : "/mrmtType/hail/.mrmtdialtype."
+    "from" : "/hail/.mrmtdialtype."
   }
 ]

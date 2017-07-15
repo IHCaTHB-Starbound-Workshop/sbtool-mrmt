@@ -1,21 +1,21 @@
 [[
   {
     "op" : "test",
-    "path" : "/mrmtType/helpme/.mrmtdialtype."
+    "path" : "/helpme/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/helpme/.mrmtname.",
-    "from" : "/mrmtType/helpme/.mrmtdialtype."
+    "from" : "/helpme/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/safe/.mrmtdialtype."
+    "path" : "/safe/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/safe/.mrmtname.",
-    "from" : "/mrmtType/safe/.mrmtdialtype."
+    "from" : "/safe/.mrmtdialtype."
   }
 ]]

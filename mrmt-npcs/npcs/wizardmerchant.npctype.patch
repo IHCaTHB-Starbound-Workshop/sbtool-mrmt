@@ -1,21 +1,21 @@
 [[
   {
     "op": "test",
-    "path": "/mrmtType/dialog/merchant/start/.mrmtdialtype."
+    "path": "/scriptConfig/dialog/merchant/start/.mrmtdialtype."
   },
   {
     "op": "copy",
     "path": "/scriptConfig/dialog/merchant/start/.mrmtname.",
-    "from": "/mrmtType/dialog/merchant/start/.mrmtdialtype."
+    "from": "/scriptConfig/dialog/merchant/start/.mrmtdialtype."
   }
 ],[
   {
     "op": "test",
-    "path": "/mrmtType/dialog/merchant/end/.mrmtdialtype."
+    "path": "/scriptConfig/dialog/merchant/end/.mrmtdialtype."
   },
   {
     "op": "copy",
     "path": "/scriptConfig/dialog/merchant/end/.mrmtname.",
-    "from": "/mrmtType/dialog/merchant/end/.mrmtdialtype."
+    "from": "/scriptConfig/dialog/merchant/end/.mrmtdialtype."
   }
 ]]

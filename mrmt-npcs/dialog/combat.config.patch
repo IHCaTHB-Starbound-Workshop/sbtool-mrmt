@@ -1,71 +1,71 @@
 [[
   {
     "op" : "test",
-    "path" : "/mrmtType/reattack/.mrmtdialtype."
+    "path" : "/reattack/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/reattack/.mrmtname.",
-    "from" : "/mrmtType/reattack/.mrmtdialtype."
+    "from" : "/reattack/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/attack/.mrmtdialtype."
+    "path" : "/attack/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/attack/.mrmtname.",
-    "from" : "/mrmtType/attack/.mrmtdialtype."
+    "from" : "/attack/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/killedTarget/.mrmtdialtype."
+    "path" : "/killedTarget/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/killedTarget/.mrmtname.",
-    "from" : "/mrmtType/killedTarget/.mrmtdialtype."
+    "from" : "/killedTarget/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/lostTarget/.mrmtdialtype."
+    "path" : "/lostTarget/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/lostTarget/.mrmtname.",
-    "from" : "/mrmtType/lostTarget/.mrmtdialtype."
+    "from" : "/lostTarget/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/outOfSight/.mrmtdialtype."
+    "path" : "/outOfSight/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/outOfSight/.mrmtname.",
-    "from" : "/mrmtType/outOfSight/.mrmtdialtype."
+    "from" : "/outOfSight/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/cantReach/.mrmtdialtype."
+    "path" : "/cantReach/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/cantReach/.mrmtname.",
-    "from" : "/mrmtType/cantReach/.mrmtdialtype."
+    "from" : "/cantReach/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/cheerOn/.mrmtdialtype."
+    "path" : "/cheerOn/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/cheerOn/.mrmtname.",
-    "from" : "/mrmtType/cheerOn/.mrmtdialtype."
+    "from" : "/cheerOn/.mrmtdialtype."
   }
 ]]

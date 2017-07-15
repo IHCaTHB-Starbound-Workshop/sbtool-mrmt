@@ -1,51 +1,51 @@
 [[
   {
     "op" : "test",
-    "path" : "/mrmtType/tagCriteria/.mrmtdialtype."
+    "path" : "/tagCriteria/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/tagCriteria/.mrmtname.",
-    "from" : "/mrmtType/tagCriteria/.mrmtdialtype."
+    "from" : "/tagCriteria/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/enclosedArea/.mrmtdialtype."
+    "path" : "/enclosedArea/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/enclosedArea/.mrmtname.",
-    "from" : "/mrmtType/enclosedArea/.mrmtdialtype."
+    "from" : "/enclosedArea/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/otherDeed/.mrmtdialtype."
+    "path" : "/otherDeed/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/otherDeed/.mrmtname.",
-    "from" : "/mrmtType/otherDeed/.mrmtdialtype."
+    "from" : "/otherDeed/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/severe/.mrmtdialtype."
+    "path" : "/severe/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/severe/.mrmtname.",
-    "from" : "/mrmtType/severe/.mrmtdialtype."
+    "from" : "/severe/.mrmtdialtype."
   }
 ],[
   {
     "op" : "test",
-    "path" : "/mrmtType/final/.mrmtdialtype."
+    "path" : "/final/.mrmtdialtype."
   },
   {
     "op" : "copy",
     "path" : "/final/.mrmtname.",
-    "from" : "/mrmtType/final/.mrmtdialtype."
+    "from" : "/final/.mrmtdialtype."
   }
 ]]

@@ -1,11 +1,11 @@
 [
   {
     "op": "test",
-    "path": "/mrmtType/dialog/crewmember/roleDescription/.mrmtdialtype."
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtdialtype."
   },
   {
     "op": "copy",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
-    "from": "/mrmtType/dialog/crewmember/roleDescription/.mrmtdialtype."
+    "from": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtdialtype."
   }
 ]
