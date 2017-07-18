@@ -1,0 +1,119 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstrange thing."
+      ],
+      "human": [
+        "Meatman!"
+      ],
+      "apex": [
+        "Me want cuddle from monkey man!"
+      ],
+      "avian": [
+        "Birdman!"
+      ],
+      "floran": [
+        "Floran!"
+      ],
+      "glitch": [
+        "Me greet metal man!"
+      ],
+      "hylotl": [
+        "Hsssss!"
+      ],
+      ".mrmtname.": [
+        ".mrmttitlename.!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/converse/glitch/.mrmtname.",
+    "value": [
+      "Friendly. Greetings plantman."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/floran/.mrmtname.",
+    "value": [
+      ".mrmttitlename.!"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/apex/.mrmtname.",
+    "value": [
+      "A .mrmttitlename.. Oh."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/hylotl/.mrmtname.",
+    "value": [
+      "Ghurk!"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/.mrmtname.",
+    "value": [
+      "Oh... a .mrmttitlename.."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/human/.mrmtname.",
+    "value": [
+      "A triffid!"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/flee/helpme/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstabby time for me!",
+        "Me being hurted!",
+        "Me not ready for hunt!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flee/helpthem/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstabby time for me!",
+        "Me being hurted!",
+        "Me not ready for hunt!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flee/encourage/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstabb the intruders!",
+        "Me get revenge now!",
+        "Ssslice them!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flee/safe/.mrmtname.",
+    "value": {
+      "default": [
+        "Me sssafe now.",
+        "Me not get ssstabbed after all.",
+        "Them lucky me not have weapon.",
+        "Sssalvation!"
+      ]
+    }
+  }
+]
