@@ -1,0 +1,287 @@
+[
+  {
+    "op": "add",
+    "path": "/share_secret/pleaseTakeReply/.mrmtname.",
+    "value": {
+      "default": [
+        "Grateful. Please take this reply back to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/intimidate/intimidated/.mrmtname.",
+    "value": {
+      "default": [
+        "Alarmed. Don't hurt me with that <item> - Tell <questGiver> I'll do anything!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/intimidate/notIntimidated/.mrmtname.",
+    "value": {
+      "default": [
+        "Unafraid. Why should I do what <questGiver> wants?",
+        "Confused. Are you trying to intimidate me on behalf of <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted/.mrmtname.",
+    "value": {
+      "default": [
+        "Pleased. A bribe! Give my thanks to <questGiver>.",
+        "Impressed. Thank <questGiver> for this gift on my behalf!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted2/.mrmtname.",
+    "value": {
+      "default": [
+        "Curious. I wonder what <questGiver> wants from me?",
+        "Concerned. I wonder why <questGiver> wanted to bribe me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/requestAdditionToHouse/.mrmtname.",
+    "value": {
+      "default": [
+        "Delighted. What a wonderful gift! Perhaps you could place it in my home for me?",
+        "Appreciative. This gift is so nice, I should show it off. Could you place it in my home for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted/.mrmtname.",
+    "value": {
+      "default": [
+        "Appreciative. Please thank <questGiver> on my behalf!",
+        "Happy. Tell <questGiver> that I appreciate their gift!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted2/.mrmtname.",
+    "value": {
+      "default": [
+        "Pleased. <questGiver> is a good friend.",
+        "Cheerful. <questGiver> is a kind person."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/requestAdditionToHouse/.mrmtname.",
+    "value": {
+      "default": [
+        "Delighted. What a wonderful gift! Perhaps you could place it in my home for me?",
+        "Appreciative. This gift is so nice, I should show it off. Could you place it in my home for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/return_stolen/objectTaken/.mrmtname.",
+    "value": {
+      "default": [
+        "Nervous. I have no idea how that <item> got here!",
+        "Worried. That <item> wasn't stolen, it only looks that way!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_fine/fineCollected/.mrmtname.",
+    "value": {
+      "default": [
+        "Defeated. I guess I should pay the fine, I don't want to get into further trouble!",
+        "Annoyed. I'll pay the fine - What's the use in quibbling?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_gift/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Cheerful. I hope <questGiver> likes their new <item>!",
+        "Friendly. Please take this <item> to <questGiver> - I hope they like it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/request_craft/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Generous. You're in luck - I made this <item> earlier. Take it.",
+        "Efficient. I've already made the <item> - Please take it."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/borrow/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Reasonable. Here is my <item> - Just tell <questGiver> to give it back soon.",
+        "Friendly. <questGiver> can borrow my <item> if they need it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/extort/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Petrified. I don't want to get hurt! Take my <item> if that's what you need!",
+        "Terrified. Just take my <item>! <questGiver> can have it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafting/.mrmtname.",
+    "value": {
+      "default": [
+        "Eager. You have brought me the materials! Hold on one moment...",
+        "Pleased. You brought me the items we need! Just give me moment to craft this..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafted/.mrmtname.",
+    "value": {
+      "default": [
+        "Pleased. I have finished crafting. Can you deliver this to <questGiver> for me?",
+        "Satisfied. I have finished! Now please take this package to <questGiver> for me."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafting/.mrmtname.",
+    "value": {
+      "default": [
+        "Eager. You have brought me the materials! Hold on one moment...",
+        "Pleased. You brought me the items we need! Just give me moment to craft this..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafted/.mrmtname.",
+    "value": {
+      "default": [
+        "Pleased. I have finished crafting. Can you deliver this to <questGiver> for me?",
+        "Satisfied. I have finished! Now please take this package to <questGiver> for me."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/new_stock/trade/.mrmtname.",
+    "value": {
+      "default": [
+        "Wary. This seems like the right stuff... Ok. Let's trade. Take this parcel to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/kidnappersDead/.mrmtname.",
+    "value": {
+      "default": [
+        "Grateful. You saved me! My hero!",
+        "Relieved. Thank goodness you saved me!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/.mrmtname.",
+    "value": {
+      "default": [
+        "Terrified. Um, could you take me back to <questGiver>?",
+        "Worried. Perhaps you could escort me back to <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort/found/.mrmtname.",
+    "value": {
+      "default": [
+        "Flustered. I appear to be lost. Help me - take me back to <questGiver>?",
+        "Confused. I think I might be lost. Er, can you take me back to <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/barter/trade/.mrmtname.",
+    "value": {
+      "default": [
+        "Amicable. Thank you for the goods, here's <questGiver>'s <receivedItems>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/collectDelivery/.mrmtname.",
+    "value": {
+      "default": [
+        "Interested. Do you have a delivery for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/provideDelivery/.mrmtname.",
+    "value": {
+      "default": [
+        "Cheerful. Here are your goods! Enjoy!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npcs/assistantIntro/.mrmtname.",
+    "value": {
+      "default": [
+        "Amicable. <questGiver> has contracted me to aid you in your battle with the <enemy>!",
+        "Friendly. I have been hired by <questGiver> to help you in your quest."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/surrender/.mrmtname.",
+    "value": {
+      "default": [
+        "Judicious. I surrender, put away your weapon.",
+        "Afraid. I surrender! Please, put away your weapon."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/betray/.mrmtname.",
+    "value": {
+      "default": [
+        "Mischevious. You fool!",
+        "Surprised. You actually fell for that?",
+        "Shocked. You actually fell for that?"
+      ]
+    }
+  }
+]

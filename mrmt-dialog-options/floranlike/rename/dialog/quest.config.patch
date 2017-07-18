@@ -1,0 +1,285 @@
+[
+  {
+    "op": "add",
+    "path": "/share_secret/pleaseTakeReply/.mrmtname.",
+    "value": {
+      "default": [
+        "Take thisss reply to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/intimidate/intimidated/.mrmtname.",
+    "value": {
+      "default": [
+        "Don't hurt .mrmttitlename. with <item>! Tell <questGiver> .mrmttitlename. will obey!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/intimidate/notIntimidated/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. not sscared of <questGiver>!",
+        ".mrmttitlename. not sscared of you, or <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. doesn't mind bribes. Say thanksss to <questGiver>!",
+        ".mrmttitlename. likes bribes! Say thanksss to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted2/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. wonders what <questGiver> wantsss..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/requestAdditionToHouse/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. likesss gift! Can you put it in .mrmttitlename.'s house please?",
+        "Gift is perfect for .mrmttitlename.! Can you put it in .mrmttitlename.'s home?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. likesss gift! Tell <questGiver> for .mrmttitlename.!",
+        "A present for .mrmttitlename.! Give .mrmttitlename.'s thanksss to <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted2/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. likesss <questGiver>!",
+        ".mrmttitlename. hasss decided that <questGiver> is a good friend."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/requestAdditionToHouse/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. likesss gift! Can you put it in .mrmttitlename.'s house please?",
+        "Gift is perfect for .mrmttitlename.! Can you put it in .mrmttitlename.'s home?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/return_stolen/objectTaken/.mrmtname.",
+    "value": {
+      "default": [
+        "You can take that <item> back, just don't get .mrmttitlename. in trouble!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_fine/fineCollected/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. got caught, ssso .mrmttitlename. will pay fine.",
+        "You caught .mrmttitlename.! .mrmttitlename. impressed, here isss the fine."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_gift/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Here isss the <item>, give it to <questGiver> for me!",
+        "Here isss the <item> for <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/request_craft/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. made thisss <item> for you, as requested!",
+        "Here isss the <item> you wanted .mrmttitlename. to make!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/borrow/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. can lend <questGiver> <item>, as long as .mrmttitlename. getsss it back ssoon.",
+        "Here iss the <item> for <questGiver>, .mrmttitlename. doesn't mind lending it."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/extort/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. doesn't want to fight right now! Take <item>.",
+        "Fine! .mrmttitlename. will help <questGiver>! Take .mrmttitlename.'s <item>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafting/.mrmtname.",
+    "value": {
+      "default": [
+        "You brought .mrmttitlename. materials! .mrmttitlename. craft now, hold on...",
+        "Thank you for thingss! .mrmttitlename. just take a moment to craft..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafted/.mrmtname.",
+    "value": {
+      "default": [
+        "Finished! Pleasse take parcel to <questGiver> for .mrmttitlename..",
+        "Here iss thing! Take it to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafting/.mrmtname.",
+    "value": {
+      "default": [
+        "You brought .mrmttitlename. materials! .mrmttitlename. craft now, hold on...",
+        "Thank you for thingss! .mrmttitlename. just take a moment to craft..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafted/.mrmtname.",
+    "value": {
+      "default": [
+        "Finished! Pleasse take parcel to <questGiver> for .mrmttitlename..",
+        "Here iss thing! Take it to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/new_stock/trade/.mrmtname.",
+    "value": {
+      "default": [
+        "Thank you for the sstuff. Here's <questGiver>'s parcel, don't lose it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/kidnappersDead/.mrmtname.",
+    "value": {
+      "default": [
+        "You saved .mrmttitlename.! .mrmttitlename. is relieved!",
+        ".mrmttitlename. could have won the fight if .mrmttitlename. had a ssspear, but .mrmttitlename. still appreciates help."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. doess not want to be alone. Can you take .mrmttitlename. home to <questGiver>?",
+        "Can you take .mrmttitlename. home to <questGiver>? .mrmttitlename. doesn't feel sssafe."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort/found/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. is lossst. Could you help .mrmttitlename. find <questGiver>?",
+        ".mrmttitlename. sssomehow got lost... Please take .mrmttitlename. back to <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/barter/trade/.mrmtname.",
+    "value": {
+      "default": [
+        "Thanksss for the ssstuff, here's <questGiver>'s <receivedItems>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/collectDelivery/.mrmtname.",
+    "value": {
+      "default": [
+        "Do you have a delivery for .mrmttitlename.?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/provideDelivery/.mrmtname.",
+    "value": {
+      "default": [
+        "Here'sss your stuff. Enjoy!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npcs/assistantIntro/.mrmtname.",
+    "value": {
+      "default": [
+        "<questGiver> contracted .mrmttitlename. to help you ssstab the <enemy>.",
+        ".mrmttitlename. friend of <questGiver>, here to help you fight the <enemy>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/surrender/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. sssurrenders! Put weapon away!",
+        ".mrmttitlename. admitsss defeat! Put weapon away!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/betray/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. hasss tricked you!",
+        ".mrmttitlename. tricked you!",
+        "Why would you do what .mrmttitlename. asked?"
+      ]
+    }
+  }
+]

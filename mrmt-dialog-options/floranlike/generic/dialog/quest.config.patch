@@ -1,0 +1,285 @@
+[
+  {
+    "op": "add",
+    "path": "/share_secret/pleaseTakeReply/.mrmtname.",
+    "value": {
+      "default": [
+        "Take thisss reply to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/intimidate/intimidated/.mrmtname.",
+    "value": {
+      "default": [
+        "Don't hurt me with <item>! Tell <questGiver> me will obey!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/intimidate/notIntimidated/.mrmtname.",
+    "value": {
+      "default": [
+        "Me not sscared of <questGiver>!",
+        "Me not sscared of you, or <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted/.mrmtname.",
+    "value": {
+      "default": [
+        "Me doesn't mind bribes. Say thanksss to <questGiver>!",
+        "Me likes bribes! Say thanksss to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted2/.mrmtname.",
+    "value": {
+      "default": [
+        "Me wonders what <questGiver> wantsss..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/requestAdditionToHouse/.mrmtname.",
+    "value": {
+      "default": [
+        "Me likesss gift! Can you put it in it's house please?",
+        "Gift is perfect for me! Can you put it in it's home?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted/.mrmtname.",
+    "value": {
+      "default": [
+        "Me likesss gift! Tell <questGiver> for me!",
+        "A present for me! Give it's thanksss to <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted2/.mrmtname.",
+    "value": {
+      "default": [
+        "Me likesss <questGiver>!",
+        "Me hasss decided that <questGiver> is a good friend."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/requestAdditionToHouse/.mrmtname.",
+    "value": {
+      "default": [
+        "Me likesss gift! Can you put it in it's house please?",
+        "Gift is perfect for me! Can you put it in it's home?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/return_stolen/objectTaken/.mrmtname.",
+    "value": {
+      "default": [
+        "You can take that <item> back, just don't get me in trouble!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_fine/fineCollected/.mrmtname.",
+    "value": {
+      "default": [
+        "Me got caught, ssso me will pay fine.",
+        "You caught me! Me impressed, here isss the fine."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_gift/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Here isss the <item>, give it to <questGiver> for me!",
+        "Here isss the <item> for <questGiver>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/request_craft/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Me made thisss <item> for you, as requested!",
+        "Here isss the <item> you wanted me to make!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/borrow/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Me can lend <questGiver> <item>, as long as me getsss it back ssoon.",
+        "Here iss the <item> for <questGiver>, me doesn't mind lending it."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/extort/giftProvided/.mrmtname.",
+    "value": {
+      "default": [
+        "Me doesn't want to fight right now! Take <item>.",
+        "Fine! Me will help <questGiver>! Take it's <item>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafting/.mrmtname.",
+    "value": {
+      "default": [
+        "You brought me materials! Me craft now, hold on...",
+        "Thank you for thingss! Me just take a moment to craft..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafted/.mrmtname.",
+    "value": {
+      "default": [
+        "Finished! Pleasse take parcel to <questGiver> for me.",
+        "Here iss thing! Take it to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafting/.mrmtname.",
+    "value": {
+      "default": [
+        "You brought me materials! Me craft now, hold on...",
+        "Thank you for thingss! Me just take a moment to craft..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafted/.mrmtname.",
+    "value": {
+      "default": [
+        "Finished! Pleasse take parcel to <questGiver> for me.",
+        "Here iss thing! Take it to <questGiver>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/new_stock/trade/.mrmtname.",
+    "value": {
+      "default": [
+        "Thank you for the sstuff. Here's <questGiver>'s parcel, don't lose it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/kidnappersDead/.mrmtname.",
+    "value": {
+      "default": [
+        "You saved me! Me is relieved!",
+        "Me could have won the fight if me had a ssspear, but me still appreciates help."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/.mrmtname.",
+    "value": {
+      "default": [
+        "Me doess not want to be alone. Can you take me home to <questGiver>?",
+        "Can you take me home to <questGiver>? Me doesn't feel sssafe."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort/found/.mrmtname.",
+    "value": {
+      "default": [
+        "Me is lossst. Could you help me find <questGiver>?",
+        "Me sssomehow got lost... Please take me back to <questGiver>?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/barter/trade/.mrmtname.",
+    "value": {
+      "default": [
+        "Thanksss for the ssstuff, here's <questGiver>'s <receivedItems>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/collectDelivery/.mrmtname.",
+    "value": {
+      "default": [
+        "Do you have a delivery for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/provideDelivery/.mrmtname.",
+    "value": {
+      "default": [
+        "Here'sss your stuff. Enjoy!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npcs/assistantIntro/.mrmtname.",
+    "value": {
+      "default": [
+        "<questGiver> contracted me to help you ssstab the <enemy>.",
+        "Me friend of <questGiver>, here to help you fight the <enemy>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/surrender/.mrmtname.",
+    "value": {
+      "default": [
+        "Me sssurrenders! Put weapon away!",
+        "Me admitsss defeat! Put weapon away!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/betray/.mrmtname.",
+    "value": {
+      "default": [
+        "Me hasss tricked you!",
+        "Me tricked you!",
+        "Why would you do what me asked?"
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      ".mrmtname.": [
+        "Another .mrmttitlename. friend for .mrmttitlename.! Ssspace gets lonely, .mrmttitlename. should ssstay!",
+        ".mrmttitlename. likesss new .mrmttitlename.sss!",
+        ".mrmttitlename. hasss steady job on ship! .mrmttitlename. jussst has to not eat anyone.",
+        ".mrmttitlename. secretly afraid of heights. Ship isss ssscary.",
+        ".mrmttitlename. doesssn't get to hunt much in ssspace. Sssad.",
+        "Did you come jussst to say hi to .mrmttitlename.?",
+        ".mrmttitlename. not made for ssspace travel. .mrmttitlename. always feeling sssick."
+      ],
+      "default": [
+        ".mrmttitlename. hasss steady job on ship! .mrmttitlename. jussst has to not eat anyone.",
+        ".mrmttitlename. secretly afraid of heights. Ship isss ssscary.",
+        ".mrmttitlename. doesssn't get to hunt much in ssspace. Sssad.",
+        "Did you come jussst to say hi to .mrmttitlename.?",
+        ".mrmttitlename. not made for ssspace travel. .mrmttitlename. always feeling sssick."
+      ]
+    }
+  }
+]
