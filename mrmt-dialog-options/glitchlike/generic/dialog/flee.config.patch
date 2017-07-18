@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/helpme/.mrmtname.",
+    "value": {
+      "default": [
+        "Scared. Gaaah! Help me!",
+        "Frightened. Don't hurt me!",
+        "Astounded. Why is this happening!?",
+        "Afraid. Get away from me! Help!",
+        "Terrified. Save me!",
+        "Shocked. What's happening!? Stop it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/safe/.mrmtname.",
+    "value": {
+      "default": [
+        "Relieved. I got away!",
+        "Joyful. I'm alive!",
+        "Tired. That was exhausting.",
+        "Hopeful. Am I safe?",
+        "Embarrassed. I think I leaked a little oil."
+      ]
+    }
+  }
+]

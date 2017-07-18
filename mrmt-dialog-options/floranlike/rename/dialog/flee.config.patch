@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/helpme/.mrmtname.",
+    "value": {
+      "default": [
+        "Ow! Stop it!",
+        "Sstop hurting .mrmttitlename.!",
+        ".mrmttitlename. needs sspear!",
+        ".mrmttitlename. not ready for hunt!",
+        ".mrmttitlename. will tell greenfinger on you!",
+        ".mrmttitlename. has no ssspear! .mrmttitlename. can't stab!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/safe/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. sssafe!",
+        ".mrmttitlename. lives to hunt another day.",
+        "Them lucky .mrmttitlename. not have weapon...",
+        ".mrmttitlename. go get spear now.",
+        ".mrmttitlename. livesss!"
+      ]
+    }
+  }
+]

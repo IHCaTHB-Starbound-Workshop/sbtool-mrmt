@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/helpme/.mrmtname.",
+    "value": {
+      "default": [
+        "Ow! Stop it!",
+        "Sstop hurting me!",
+        "Me needs sspear!",
+        "Me not ready for hunt!",
+        "Me will tell greenfinger on you!",
+        "Me has no ssspear! Me can't stab!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/safe/.mrmtname.",
+    "value": {
+      "default": [
+        "Me sssafe!",
+        "Me lives to hunt another day.",
+        "Them lucky me not have weapon...",
+        "Me go get spear now.",
+        "Me livesss!"
+      ]
+    }
+  }
+]
