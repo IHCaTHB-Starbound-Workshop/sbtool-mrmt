@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/accuse/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstop stealing .mrmttitlename.'s stuff!",
+        "That isn't yoursss!",
+        ".mrmttitlename. won't put up with sstealing!",
+        ".mrmttitlename. iss not impressed! Stop stealing!",
+        "Bad sstranger! Stealing will be punished!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/alert/.mrmtname.",
+    "value": {
+      "default": [
+        "Guardsss! .mrmttitlename. found a thief!",
+        "The guards will hunt you down for thiss!",
+        "You are a criminal! Guardsss!",
+        ".mrmttitlename. won't let you get away with thiss! Guardsss!",
+        "That'ss it - .mrmttitlename.'s telling guards on you!"
+      ]
+    }
+  }
+]
