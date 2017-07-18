@@ -1,0 +1,134 @@
+[
+  {
+    "op": "add",
+    "path": "/merchantStart/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. welcomes you to ssstore.",
+        "What can .mrmttitlename. get for you?",
+        "You give .mrmttitlename. pixels, .mrmttitlename. gives you sstuff."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/merchantEnd/.mrmtname.",
+    "value": {
+      "default": [
+        "Come back, stay here, ssspend more!",
+        ".mrmttitlename. hopess you come back soon.",
+        ".mrmttitlename. sells besst things, you come back soon.",
+        ".mrmttitlename. pleased, hopes you come again."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/follow/.mrmtname.",
+    "value": {
+      "default": [
+        "Follow .mrmttitlename. to shop.",
+        "Sstore is thisss way, follow .mrmttitlename.."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/welcome/.mrmtname.",
+    "value": {
+      "default": [
+        "Here'sss my shop. What did you need?",
+        "We're here! What can .mrmttitlename. get you?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tout/.mrmtname.",
+    "value": {
+      "default": [
+        "Buy things! Sssell things!",
+        "Come see .mrmttitlename.'s waresss.",
+        ".mrmttitlename.'s store is the best! Come and buy!",
+        "Many things for sssale!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstop sstealing stuff...",
+        "Put my shop back how it wasss.",
+        ".mrmttitlename.'s sstore was great before. Make it right again!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/.mrmtname.",
+    "value": {
+      "default": [
+        "Please fix .mrmttitlename.'s wallsss.",
+        ".mrmttitlename.'s shop is broken. Can you fix it?",
+        ".mrmttitlename. likess pixels, can't get pixelss with walls like this. Can you fix walls?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. needs all this space, not sharing with some random ssstranger.",
+        "If you move in sssomeone else, .mrmttitlename. will eat them.",
+        ".mrmttitlename.'s not sharing shop! Take ssecond deed down."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/severe/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. can't work like thisss!",
+        ".mrmttitlename. is angry, fix .mrmttitlename.'s shop.",
+        "You sssstill haven't fixed things in .mrmttitlename.'s shop!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/final/.mrmtname.",
+    "value": {
+      "default": [
+        "That'sss it, .mrmttitlename. is leaving!",
+        ".mrmttitlename. givess up! .mrmttitlename. can't work like this!",
+        "Thisss is unprofessional, .mrmttitlename. will sssell on some other planet!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/beacon/.mrmtname.",
+    "value": {
+      "default": [
+        "You need .mrmttitlename. to sell you sssomething?",
+        "Do you need me for sssomething?",
+        "Were you sssearching for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/rent/.mrmtname.",
+    "value": {
+      "default": [
+        "Here isss a present for you!",
+        ".mrmttitlename. got you this to ssay thank you.",
+        ".mrmttitlename. likes shop, .mrmttitlename. ssay thank you with present."
+      ]
+    }
+  }
+]

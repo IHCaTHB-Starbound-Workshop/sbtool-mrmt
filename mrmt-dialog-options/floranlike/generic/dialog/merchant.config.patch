@@ -1,0 +1,134 @@
+[
+  {
+    "op": "add",
+    "path": "/merchantStart/.mrmtname.",
+    "value": {
+      "default": [
+        "Me welcomes you to ssstore.",
+        "What can me get for you?",
+        "You give me pixels, me gives you sstuff."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/merchantEnd/.mrmtname.",
+    "value": {
+      "default": [
+        "Come back, stay here, ssspend more!",
+        "Me hopess you come back soon.",
+        "Me sells besst things, you come back soon.",
+        "Me pleased, hopes you come again."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/follow/.mrmtname.",
+    "value": {
+      "default": [
+        "Follow me to shop.",
+        "Sstore is thisss way, follow me."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/welcome/.mrmtname.",
+    "value": {
+      "default": [
+        "Here'sss my shop. What did you need?",
+        "We're here! What can me get you?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tout/.mrmtname.",
+    "value": {
+      "default": [
+        "Buy things! Sssell things!",
+        "Come see it's waresss.",
+        "Me's store is the best! Come and buy!",
+        "Many things for sssale!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tagCriteria/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstop sstealing stuff...",
+        "Put my shop back how it wasss.",
+        "Me's sstore was great before. Make it right again!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/.mrmtname.",
+    "value": {
+      "default": [
+        "Please fix it's wallsss.",
+        "Me's shop is broken. Can you fix it?",
+        "Me likess pixels, can't get pixelss with walls like this. Can you fix walls?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/.mrmtname.",
+    "value": {
+      "default": [
+        "Me needs all this space, not sharing with some random ssstranger.",
+        "If you move in sssomeone else, me will eat them.",
+        "Me's not sharing shop! Take ssecond deed down."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/severe/.mrmtname.",
+    "value": {
+      "default": [
+        "Me can't work like thisss!",
+        "Me is angry, fix it's shop.",
+        "You sssstill haven't fixed things in it's shop!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/final/.mrmtname.",
+    "value": {
+      "default": [
+        "That'sss it, me is leaving!",
+        "Me givess up! me can't work like this!",
+        "Thisss is unprofessional, me will sssell on some other planet!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/beacon/.mrmtname.",
+    "value": {
+      "default": [
+        "You need me to sell you sssomething?",
+        "Do you need me for sssomething?",
+        "Were you sssearching for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/rent/.mrmtname.",
+    "value": {
+      "default": [
+        "Here isss a present for you!",
+        "Me got you this to ssay thank you.",
+        "Me likes shop, me ssay thank you with present."
+      ]
+    }
+  }
+]
