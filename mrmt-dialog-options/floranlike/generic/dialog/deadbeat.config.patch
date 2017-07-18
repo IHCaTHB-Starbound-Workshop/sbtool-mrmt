@@ -1,0 +1,98 @@
+[
+  {
+    "op": "add",
+    "path": "/reattack/.mrmtname.",
+    "value": {
+      "default": [
+        "Me furiousss you came back!",
+        "Hello again, prey.",
+        "You came back again!?",
+        "Me will ssstop you this time!",
+        "The prey came back!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/.mrmtname.",
+    "value": {
+      "default": [
+        "Sssupper!",
+        "Time to ssstab! Time to shoot!",
+        "Hunt the prey!",
+        "Get it!",
+        "Ssstab it! Shoot it!",
+        "Catch it! Eat it!",
+        "Me hunt!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/.mrmtname.",
+    "value": {
+      "default": [
+        "That was fun. What should me do now..?",
+        "Me is the best hunter in hissstory!",
+        "Now me has nothing to do...",
+        "Me winsss!",
+        "Me isss the best!",
+        "That was fun!",
+        "Did it!",
+        "Me enjoyed that."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lostTarget/.mrmtname.",
+    "value": {
+      "default": [
+        "Me will go hunt ssomething else.",
+        "When they get back, they'll get a ssstabbing...",
+        "Me will find ssomeone else to chase.",
+        "Me's not given up! Just not sure what to do next...",
+        "Me hungry... maybe prey come back."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/outOfSight/.mrmtname.",
+    "value": {
+      "default": [
+        "Me iss good hunter! Prey won't sstay hidden for long!",
+        "Me sstill smells the prey!",
+        "Wily prey is hiding!",
+        "... me can't find you.",
+        "Where is the ssneaky thing?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cantReach/.mrmtname.",
+    "value": {
+      "default": [
+        "They're too far away to ssstab!",
+        "Me can't reach!",
+        "Come clossser!",
+        "Trickssy prey is out of reach!",
+        "Me not clossse enough!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/.mrmtname.",
+    "value": {
+      "default": [
+        "Sssave some for me!",
+        "Get the prey!",
+        "Me is so happy to be part of thiss.",
+        "Get it!",
+        "Me excited!"
+      ]
+    }
+  }
+]

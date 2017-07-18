@@ -1,0 +1,98 @@
+[
+  {
+    "op": "add",
+    "path": "/reattack/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. furiousss you came back!",
+        "Hello again, prey.",
+        "You came back again!?",
+        ".mrmttitlename. will ssstop you this time!",
+        "The prey came back!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/attack/.mrmtname.",
+    "value": {
+      "default": [
+        "Sssupper!",
+        "Time to ssstab! Time to shoot!",
+        "Hunt the prey!",
+        "Get it!",
+        "Ssstab it! Shoot it!",
+        "Catch it! Eat it!",
+        ".mrmttitlename. hunt!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/killedTarget/.mrmtname.",
+    "value": {
+      "default": [
+        "That was fun. What should .mrmttitlename. do now..?",
+        ".mrmttitlename. is the best hunter in hissstory!",
+        "Now .mrmttitlename. has nothing to do...",
+        ".mrmttitlename. winsss!",
+        ".mrmttitlename. isss the best!",
+        "That was fun!",
+        "Did it!",
+        ".mrmttitlename. enjoyed that."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lostTarget/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. will go hunt ssomething else.",
+        "When they get back, they'll get a ssstabbing...",
+        ".mrmttitlename. will find ssomeone else to chase.",
+        ".mrmttitlename.'s not given up! Just not sure what to do next...",
+        ".mrmttitlename. hungry... maybe prey come back."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/outOfSight/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. iss good hunter! Prey won't sstay hidden for long!",
+        ".mrmttitlename. sstill smells the prey!",
+        "Wily prey is hiding!",
+        "... .mrmttitlename. can't find you.",
+        "Where is the ssneaky thing?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cantReach/.mrmtname.",
+    "value": {
+      "default": [
+        "They're too far away to ssstab!",
+        ".mrmttitlename. can't reach!",
+        "Come clossser!",
+        "Trickssy prey is out of reach!",
+        ".mrmttitlename. not clossse enough!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/cheerOn/.mrmtname.",
+    "value": {
+      "default": [
+        "Sssave some for me!",
+        "Get the prey!",
+        ".mrmttitlename. is so happy to be part of thiss.",
+        "Get it!",
+        ".mrmttitlename. excited!"
+      ]
+    }
+  }
+]
