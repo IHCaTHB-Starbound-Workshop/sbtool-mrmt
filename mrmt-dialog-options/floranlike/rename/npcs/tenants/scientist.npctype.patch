@@ -1,11 +1,13 @@
 [
   {
-    "op": "test",
-    "path": "/scriptConfig/dialog/converse/.mrmtdialtype."
-  },
-  {
-    "op": "copy",
+    "op": "add",
     "path": "/scriptConfig/dialog/converse/.mrmtname.",
-    "from": "/scriptConfig/dialog/converse/.mrmtdialtype."
+    "value": {
+      "default": [
+        "Glassses makess .mrmttitlename. feel sssilly.",
+        "Lab coat makess .mrmttitlename. feel sssilly.",
+        "Look at .mrmttitlename.sss notesss! \"gravity wavesss maybe\"....mrmttitlename. not sure what it meansss."
+      ]
+    }
   }
 ]

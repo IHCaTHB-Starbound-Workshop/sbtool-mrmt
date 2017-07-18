@@ -1,11 +1,13 @@
 [
   {
-    "op": "test",
-    "path": "/scriptConfig/dialog/converse/.mrmtdialtype."
-  },
-  {
-    "op": "copy",
-    "path": "/scriptConfig/dialog/converse/.mrmtname.",
-    "from": "/scriptConfig/dialog/converse/.mrmtdialtype."
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmttitlename.",
+    "value": {
+      "default": [
+        ".mrmttitlename. make ssscary face but you no see through helmet.",
+        "Maybe .mrmttitlename. eat alien ssample...for sssscience.",
+        ".mrmttitlename. taught sself to say my-grow-organ-is-them!"
+      ]
+    }
   }
 ]

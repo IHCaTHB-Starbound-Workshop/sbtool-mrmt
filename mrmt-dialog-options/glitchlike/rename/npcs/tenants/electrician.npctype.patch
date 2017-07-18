@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Surprised. I came to fix these circuits, but they look fine to me.",
+        "Eager. I love maintaining circuits and electronics! It's a job AND a hobby.",
+        "Pleased. I am glad I learned how electronics work - I find circuits fascinating."
+      ]
+    }
+  }
+]
