@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/.mrmtname.",
+    "value": {
+      "default": [
+        "Affable. All your cooking needs, right here.",
+        "Confident. My produce is of excellent quality!",
+        "Friendly. If you're hungry, you have come to the right person.",
+        "Genial. Best produce around! What can I get you?",
+        "Proud. .mrmttitlename. grow the best produce."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/.mrmtname.",
+    "value": {
+      "default": [
+        "Happy. Come back any time.",
+        "Encouraging. Go forth and become hungry.",
+        "Pleased. I'm sure you will enjoy that."
+      ]
+    }
+  }
+]
