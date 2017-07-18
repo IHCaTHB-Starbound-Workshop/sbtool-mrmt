@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. is an electrician, but .mrmttitlename. has no idea how electricity worksss.",
+        ".mrmttitlename. got this electrician job, sssomehow... Would rather be ssstabbing.",
+        ".mrmttitlename. wondersss if electrician hat is good for combat."
+      ]
+    }
+  }
+]

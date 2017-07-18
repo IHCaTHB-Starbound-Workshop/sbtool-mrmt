@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Glassses makess .mrmttitlename. feel sssilly.",
+        "Lab coat makess .mrmttitlename. feel sssilly.",
+        "Look at .mrmttitlename.sss notesss! \"gravity wavesss maybe\"....mrmttitlename. not sure what it meansss."
+      ]
+    }
+  }
+]

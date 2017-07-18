@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. sssell food!",
+        ".mrmttitlename.'s food is the besst! Buy it all!",
+        "Greenfinger says .mrmttitlename. is \"liability in the kitchen\", but good produce merchant.",
+        "You look like poor hunter, so .mrmttitlename. ssell you dinner.",
+        ".mrmttitlename. is at your sservice."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/.mrmtname.",
+    "value": {
+      "default": [
+        "Come back sssoon for more food!",
+        ".mrmttitlename. will see you again!",
+        ".mrmttitlename. can't wait to sssell more food!"
+      ]
+    }
+  }
+]

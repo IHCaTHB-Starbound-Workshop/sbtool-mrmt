@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. is always center of attention in thisss wig.",
+        "When .mrmttitlename. wearsss wig, people talk to .mrmttitlename.. .mrmttitlename. doesn't know why.",
+        ".mrmttitlename. wearsss this wig once and now everyone thinks .mrmttitlename. is fancy."
+      ]
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Not many .mrmttitlename.s become Protectorsss. .mrmttitlename. is proud to be chosen!",
+        ".mrmttitlename. regretss drinking five Oculemonades for breakfast...",
+        ".mrmttitlename. hopess there will be time for a toilet break."
+      ]
+    }
+  }
+]
