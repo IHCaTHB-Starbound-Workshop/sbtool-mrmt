@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/floran",
+    "value": {
+      "default": [
+        "Hot air bad for Floran. Floran need water a lot.",
+        "No trouble or Floran ssstab.",
+        "Wielding big hammer not hard for Floran."
+      ]
+    }
+  }
+]

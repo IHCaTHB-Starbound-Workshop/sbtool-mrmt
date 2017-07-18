@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "test",
+    "path" : "/scriptConfig/chatSounds/floran"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/chatSounds/.mrmtname.",
+    "from": "/scriptConfig/chatSounds/floran"
+  }
+]

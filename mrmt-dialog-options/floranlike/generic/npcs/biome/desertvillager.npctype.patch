@@ -1,0 +1,15 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Me not used to hot desssert!",
+        "Welcome to the desssert!",
+        "If you like sssand you like desert!",
+        "Sssand is fun but me need water.",
+        "Too much heat bad for me."
+      ]
+    }
+  }
+]

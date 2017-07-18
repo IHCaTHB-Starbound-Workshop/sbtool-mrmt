@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/attack/.mrmtname.",
+    "value": {
+      "default": [
+        "Sssupper!",
+        "Time to ssstab! Time to shoot!",
+        "Hunt the prey!",
+        "Get it!",
+        "Ssstab it! Shoot it!",
+        "Catch it! Eat it!",
+        ".mrmttitlename. hunt!"
+      ]
+    }
+  }
+]
