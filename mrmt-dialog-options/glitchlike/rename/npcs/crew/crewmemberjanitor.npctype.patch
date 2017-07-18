@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Bored. I'm <selfname>... The janitor.",
+        "Underwhelmed. A job is a job, but still..."
+      ]
+    }
+  }
+]

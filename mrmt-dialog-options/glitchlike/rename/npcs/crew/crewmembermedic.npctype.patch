@@ -1,0 +1,34 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Helpful. I'll heal you whenever we're on the ship!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/.mrmtname.",
+    "value": {
+      "default": [
+        "Concerned. You look like you could do with some healing!",
+        "Caring. Perhaps you could do with some healing?",
+        "Helpful. You look like you could be in better shape. Let me assist you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
+    "value": {
+      "default": [
+        "Eager. I can help you out!",
+        "Excited. Perhaps you could do with some healing?",
+        "Helpful. This should heal you!",
+        "Helpful. Take this, it will help!"
+      ]
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. will heal you whenever we're on the ship!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/.mrmtname.",
+    "value": {
+      "default": [
+        "You look wounded. .mrmttitlename. can help!",
+        ".mrmttitlename. is medic! Trust .mrmttitlename.!",
+        "You look hurt. .mrmttitlename. can help you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. hasss things to help out!",
+        ".mrmttitlename. can help out!",
+        ".mrmttitlename. hasss things to help!"
+      ]
+    }
+  }
+]

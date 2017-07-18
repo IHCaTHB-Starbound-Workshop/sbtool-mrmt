@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "value": {
+      "default": [
+        "Me good person really! Me just needsss to lay low. Can you help me?",
+        "Do you have a ship? Me needs to hide from sssome people. Can you help me?",
+        "Me isss laying low from some people! Can you help me out, maybe let me ssstow away on your ship?",
+        "Me needs to lay low. Me will fight for you in return for a place on your ship!",
+        "Me has offer for you - let me hide on your ship, and me will fight for you! Me can't stay around here...",
+        "Me needs somewhere to hide. Do you have a ship? Me has an offer for you...",
+        "Me needs to lay low! Please don't turn me in... me will work for you."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Thisss ship is the perfect hiding place for me! Me will be here to help you any time!",
+        "Me appreciatess your help. Me will you fight your enemies for you anytime!",
+        "Me not so bad really, honest... This ship is perfect hiding spot. Come get me whenever you need help fighting!",
+        "Me can hide out here until people forget what me did... Thank you! If you need help me is here."
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Me will give you boostsss when we are on ship!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
+    "value": {
+      "default": [
+        "Me hasss things to help you out!",
+        "Me can help out!",
+        "Me hasss things to help!"
+      ]
+    }
+  }
+]

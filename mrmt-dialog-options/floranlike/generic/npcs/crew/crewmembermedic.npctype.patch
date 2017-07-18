@@ -1,0 +1,33 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Me will heal you whenever we're on the ship!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/.mrmtname.",
+    "value": {
+      "default": [
+        "You look wounded. Me can help!",
+        "Me is medic! Trust me!",
+        "You look hurt. Me can help you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
+    "value": {
+      "default": [
+        "Me hasss things to help out!",
+        "Me can help out!",
+        "Me hasss things to help!"
+      ]
+    }
+  }
+]

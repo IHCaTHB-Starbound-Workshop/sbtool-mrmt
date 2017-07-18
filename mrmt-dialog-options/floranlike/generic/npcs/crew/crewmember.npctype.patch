@@ -1,0 +1,71 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "value": {
+      "default": [
+        "Me wantss to join ship crew!",
+        "Me interesssted in long term employment. Can you give me a job?",
+        "You look ssstrong. Me wants to join you!"
+      ]
+    }
+  }
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Me will stay here until you need me to ssstab or shoot something.",
+        "Me is bessst hunter! Ask me if you need help some time.",
+        "Me here to help you fight if you need it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
+    "value": {
+      "default": [
+        "Me feelsss funny.",
+        "Me not a fan of dying.",
+        "Ressspawning tickles.",
+        "Me will fight better next time..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtname.",
+    "value": {
+      "default": [
+        "Me should sstay here?",
+        "Me will sstay here.",
+        "Me will sstay, then..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtname.",
+    "value": {
+      "default": [
+        "Yesss, Captain!",
+        "Let'ss go!",
+        "Captain wantss me to follow?",
+        "Me ready to go again!",
+        "Are we going ssomewhere?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtname.",
+    "value": {
+      "default": [
+        "Me too far away!",
+        "Me iss left behind!",
+        "Me not close enough to you!"
+      ]
+    }
+  }
+]

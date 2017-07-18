@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. good person really! .mrmttitlename. just needsss to lay low. Can you help .mrmttitlename.?",
+        "Do you have a ship? .mrmttitlename. needs to hide from sssome people. Can you help .mrmttitlename.?",
+        ".mrmttitlename. isss laying low from some people! Can you help .mrmttitlename. out, maybe let .mrmttitlename. ssstow away on your ship?",
+        ".mrmttitlename. needs to lay low. .mrmttitlename. will fight for you in return for a place on your ship!",
+        ".mrmttitlename. has offer for you - let .mrmttitlename. hide on your ship, and .mrmttitlename. will fight for you! .mrmttitlename. can't stay around here...",
+        ".mrmttitlename. needs somewhere to hide. Do you have a ship? .mrmttitlename. has an offer for you...",
+        ".mrmttitlename. needs to lay low! Please don't turn .mrmttitlename. in... .mrmttitlename. will work for you."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Thisss ship is the perfect hiding place for .mrmttitlename.! .mrmttitlename. will be here to help you any time!",
+        ".mrmttitlename. appreciatess your help. .mrmttitlename. will you fight your enemies for you anytime!",
+        ".mrmttitlename. not so bad really, honest... This ship is perfect hiding spot. Come get .mrmttitlename. whenever you need help fighting!",
+        ".mrmttitlename. can hide out here until people forget what .mrmttitlename. did... Thank you! If you need help .mrmttitlename. is here."
+      ]
+    }
+  }
+]

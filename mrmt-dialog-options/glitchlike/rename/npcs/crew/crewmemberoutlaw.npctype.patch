@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "value": {
+      "default": [
+        "Desperate. I need to lay low! Please don't turn me in, can I join your crew instead?",
+        "Desperate. I'm a good person really! Please, let me stow away on your ship with you!",
+        "Concerned. There are people... Looking for me... Let me hide away on your ship, I'll fight for you in return.",
+        "Desperate. I don't want to hurt you, I just need to lay low! Can I stow away with you?",
+        "Desperate. I need to lay low! I'll fight with you if you let me stay on your ship.",
+        "Desperate. Please, let me hide on your ship! I'll fight for you! There are people I need to avoid...",
+        "Desperate. I really need to hide. Do you have a ship? I'll fight for you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Appreciative. Thank you for allowing me to stay here. I can join you in battle if you ever need me, I won't forget our bargain.",
+        "Grateful. This ship is the ideal place to lay low. If you need backup, I shall be here!",
+        "Appreciative. Thank you for giving me a place to hide. I will stay here, and fight for you when you require me.",
+        "Grateful. I can hide out here until the heat dies down! Whenever you need backup I am be here to help."
+      ]
+    }
+  }
+]

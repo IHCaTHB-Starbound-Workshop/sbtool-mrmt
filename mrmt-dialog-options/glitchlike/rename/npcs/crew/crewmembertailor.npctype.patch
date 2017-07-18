@@ -1,0 +1,23 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Amiable. Come to me whenever you wish to update your crew's uniform.",
+        "Eager. If you need to update your crew's uniform, come speak to me!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Impressed. This is a promising uniform choice, captain!",
+        "Excited. I'm sure people will love your uniform!",
+        "Eager. I can't wait to see what people think of your new uniform, captain!"
+      ]
+    }
+  }
+]

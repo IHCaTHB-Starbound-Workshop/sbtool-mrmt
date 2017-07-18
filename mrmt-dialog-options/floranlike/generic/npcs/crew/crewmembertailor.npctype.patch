@@ -1,0 +1,23 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Come ssspeak to me when you want uniforms updated!",
+        "Me can update your crew's uniform whenever you want!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Me thinks thisss is a good uniform!",
+        "Me impressed with your sense of ssstyle!",
+        "Me likesss outfit choice, captain."
+      ]
+    }
+  }
+]
