@@ -1,11 +1,11 @@
 [
   {
-    "op": "test",
-    "path": "/scriptConfig/dialog/converse/.mrmtdialtype."
-  },
-  {
-    "op": "copy",
+    "op": "add",
     "path": "/scriptConfig/dialog/converse/.mrmtname.",
-    "from": "/scriptConfig/dialog/converse/.mrmtdialtype."
+    "value": {
+      "default": [
+        "Museum should have more .mrmttitlename. thingsss, don't you agree?"
+      ]
+    }
   }
 ]
