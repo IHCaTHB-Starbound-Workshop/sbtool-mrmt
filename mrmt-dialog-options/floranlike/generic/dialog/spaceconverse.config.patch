@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      ".mrmtname.": [
+        "Other .mrmttitlename.! Me likesss similar faces.",
+        "Me left it's tribe because me isss pacifist. Me finding it... Tough.",
+        "It's Greenfinger taught me about ssspace travel. Now me livesss in sssky!",
+        "Me got lossst during hunt and now me here. Me not quite sssure what happened.",
+        "Me doesssn't get to hunt much in ssspace. Sssad.",
+        "Me didn't want to fight and eat all of its life, ssso Me came to ssspace inssstead.",
+        "Me livesss in sssky. Me higher up than all of it's tribe!",
+        "It's name is <selfname>. Me saying hello!",
+        "It's tribe livesss on planet. Tribe doesssn't like it's pacifist waysss so me comesss here."
+      ],
+      "default": [
+        "Me left Me's tribe because Me isss pacifist. Me finding it... Tough.",
+        "Me's Greenfinger taught Me about ssspace travel. Now Me livesss in sssky!",
+        "Me got lossst during hunt and now me here. Me not quite sssure what happened.",
+        "Me doesssn't get to hunt much in ssspace. Sssad.",
+        "Me didn't want to fight and eat all of it's life, ssso me came to ssspace inssstead.",
+        "Me livesss in sssky. Me higher up than all of it's tribe!",
+        "It's name is <selfname>. Me saying hello!",
+        "It's tribe livesss on planet. Tribe doesssn't like it's pacifist waysss so me comesss here."
+      ]
+    }
+  }
+]

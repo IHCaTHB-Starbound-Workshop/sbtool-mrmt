@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      ".mrmtname.": [
+        "Other .mrmttitlename.! .mrmttitlename. likesss similar faces.",
+        ".mrmttitlename. left .mrmttitlename.'s tribe because .mrmttitlename. isss pacifist. .mrmttitlename. finding it... Tough.",
+        ".mrmttitlename.'s Greenfinger taught .mrmttitlename. about ssspace travel. Now .mrmttitlename. livesss in sssky!",
+        ".mrmttitlename. got lossst during hunt and now .mrmttitlename. here. .mrmttitlename. not quite sssure what happened.",
+        ".mrmttitlename. doesssn't get to hunt much in ssspace. Sssad.",
+        ".mrmttitlename. didn't want to fight and eat all of .mrmttitlename.'s life, ssso .mrmttitlename. came to ssspace inssstead.",
+        ".mrmttitlename. livesss in sssky. .mrmttitlename. higher up than all of .mrmttitlename.'s tribe!",
+        ".mrmttitlename.'s name is <selfname>. .mrmttitlename. saying hello!",
+        ".mrmttitlename.'s tribe livesss on planet. Tribe doesssn't like .mrmttitlename.'s pacifist waysss so .mrmttitlename. comesss here."
+      ],
+      "default": [
+        ".mrmttitlename. left .mrmttitlename.'s tribe because .mrmttitlename. isss pacifist. .mrmttitlename. finding it... Tough.",
+        ".mrmttitlename.'s Greenfinger taught .mrmttitlename. about ssspace travel. Now .mrmttitlename. livesss in sssky!",
+        ".mrmttitlename. got lossst during hunt and now .mrmttitlename. here. .mrmttitlename. not quite sssure what happened.",
+        ".mrmttitlename. doesssn't get to hunt much in ssspace. Sssad.",
+        ".mrmttitlename. didn't want to fight and eat all of .mrmttitlename.'s life, ssso .mrmttitlename. came to ssspace inssstead.",
+        ".mrmttitlename. livesss in sssky. .mrmttitlename. higher up than all of .mrmttitlename.'s tribe!",
+        ".mrmttitlename.'s name is <selfname>. .mrmttitlename. saying hello!",
+        ".mrmttitlename.'s tribe livesss on planet. Tribe doesssn't like .mrmttitlename.'s pacifist waysss so .mrmttitlename. comesss here."
+      ]
+    }
+  }
+]

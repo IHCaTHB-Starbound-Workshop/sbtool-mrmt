@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/attack/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. shoot outsssider!",
+        "You can't escape!",
+        ".mrmttitlename. fill you with holesss!",
+        "Stranger not fast enough to outrun bulletss!",
+        "You can't hide from .mrmttitlename.! .mrmttitlename. hunt you down!",
+        "Outsssider!",
+        ".mrmttitlename. kill outsssider!",
+        "You won't sssurvive! .mrmttitlename. won't let you!"
+      ]
+    }
+  }
+]
