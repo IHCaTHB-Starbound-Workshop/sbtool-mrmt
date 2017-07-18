@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Friendly. I am recording all of our social interactions for data. I hope you don't mind.",
+        "Excited. There's so much data for me to record around here. It's fascinating.",
+        "Proud. I'm writing a research paper on biodiversity. It will be extremely important."
+      ]
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Dismissive. Go away, I am practicing my snooty laugh!",
+        "Delighted. When I wear this wig, people think I am rich!",
+        "Pleased. People stare at me in this wig - It must be because I look so fancy in it."
+      ]
+    }
+  }
+]

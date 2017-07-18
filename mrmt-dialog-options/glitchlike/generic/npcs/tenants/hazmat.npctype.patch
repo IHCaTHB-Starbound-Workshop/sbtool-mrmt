@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Alarmed. Don't touch me - I'm covered in unidentified microorganisms!",
+        "Proud. Beneath this yellow suit, my gears clank for the love of discovery!",
+        "Thoughtful. Even if all culture was somehow lost, people would still eventually rediscover science."
+      ]
+    }
+  }
+]
