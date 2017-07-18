@@ -1,11 +1,13 @@
 [
   {
-    "op": "test",
-    "path": "/scriptConfig/dialog/converse/.mrmtdialtype."
-  },
-  {
-    "op": "copy",
+    "op": "add",
     "path": "/scriptConfig/dialog/converse/.mrmtname.",
-    "from": "/scriptConfig/dialog/converse/.mrmtdialtype."
+    "value": {
+      "default": [
+        "Not many .mrmttitlename.s become Protectorsss. .mrmttitlename. is proud to be chosen!",
+        ".mrmttitlename. regretss drinking five Oculemonades for breakfast...",
+        ".mrmttitlename. hopess there will be time for a toilet break."
+      ]
+    }
   }
 ]
