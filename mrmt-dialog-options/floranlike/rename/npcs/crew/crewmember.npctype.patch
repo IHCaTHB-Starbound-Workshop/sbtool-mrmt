@@ -1,0 +1,71 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. wantss to join ship crew!",
+        ".mrmttitlename. interesssted in long term employment. Can you give .mrmttitlename. a job?",
+        "You look ssstrong. .mrmttitlename. wants to join you!"
+      ]
+    }
+  }
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. will stay here until you need .mrmttitlename. to ssstab or shoot something.",
+        ".mrmttitlename. is bessst hunter! Ask .mrmttitlename. if you need help some time.",
+        ".mrmttitlename. here to help you fight if you need it!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. feelsss funny.",
+        ".mrmttitlename. not a fan of dying.",
+        "Ressspawning tickles.",
+        ".mrmttitlename. will fight better next time..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. should sstay here?",
+        ".mrmttitlename. will sstay here.",
+        ".mrmttitlename. will sstay, then..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtname.",
+    "value": {
+      "default": [
+        "Yesss, Captain!",
+        "Let'ss go!",
+        "Captain wantss .mrmttitlename. to follow?",
+        ".mrmttitlename. ready to go again!",
+        "Are we going ssomewhere?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. too far away!",
+        ".mrmttitlename. iss left behind!",
+        ".mrmttitlename. not close enough to you!"
+      ]
+    }
+  }
+]

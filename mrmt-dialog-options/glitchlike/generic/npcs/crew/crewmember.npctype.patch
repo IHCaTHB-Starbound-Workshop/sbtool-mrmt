@@ -1,0 +1,72 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "value": {
+      "default": [
+        "Excited. Can I join you in the stars? I have skills that could help you!",
+        "Desperate. A life among the stars is the one for me. Please, can I join your crew?",
+        "Eager. I'm a very useful person! Can I join you?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "value": {
+      "default": [
+        "Gallant. I'll be here if you need a warrior to defend you!",
+        "Brave. If you need assistance on your travels, I will be here.",
+        "Stalwart. I can always lend you my sword and skill in battle, should you need it.",
+        "Eager. If you need someone to help you fight, I shall be here waiting!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
+    "value": {
+      "default": [
+        "Dazed. Was I dead?",
+        "Relieved. I'm back!",
+        "Concerned. I hope I respawned properly. Do I look alright?",
+        "Confused. Was I dead for a little while?",
+        "Tired. Respawning is exhausting."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtname.",
+    "value": {
+      "default": [
+        "Obliging. I will remain here for now, then.",
+        "Patient. I can wait here, captain.",
+        "Amicable.  I will remain here if you want me to, captain.",
+        "Agreeable. I can stay here if you prefer, captain."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtname.",
+    "value": {
+      "default": [
+        "Humble. I shall follow, captain.",
+        "Alert. Shall we go, captain?",
+        "Solemn. Is it time to move, captain?",
+        "Inquisitive. Are we going somewhere?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtname.",
+    "value": {
+      "default": [
+        "Frustrated. I can't reach you!",
+        "Concerned. Wait for me!"
+      ]
+    }
+  }
+]
