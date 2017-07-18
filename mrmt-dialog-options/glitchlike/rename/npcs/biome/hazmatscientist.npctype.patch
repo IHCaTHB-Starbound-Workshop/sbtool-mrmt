@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Excited. These planets are completely alien in nature! We have no way to classify them!",
+        "Excited. There are so many tissue samples for me to examine!",
+        "Cheerful. This suit doesn't actually help much against the harsh radioactivity, I just feel safer with it on!",
+        "Excited. There are a lot of hostile creatures in the area. Fascinating!",
+        "Excited. This planet is utterly unsafe. I love it!",
+        "Curious. I wonder what new medicines we could create using samples from this planet?",
+        "Boastful. My fellow scientists and I are setting out to investigate all the alien planets in the universe!",
+        "Curious. I wonder if the radioactivity has catalysed unstable growth on this planet?",
+        "Irritated. I'm doing some research. Don't contaminate my samples!",
+        "Troubled. \"Let's do some research on a dangerous alien planet\", they said! \"What could go wrong?\" they said!",
+        "Excited. Learning is cool, and don't let anyone tell you otherwise!",
+        "Thoughtful. They could really make these suits a little friendlier, couldn't they?",
+        "Curious. Can you see my face through this suit?",
+        "Alarmed. Don't touch me - I'm covered in unidentified microorganisms!",
+        "Proud. Beneath this yellow suit, my gears clank for the love of discovery!",
+        "Thoughtful. Even if all culture was somehow lost, people would still eventually rediscover science."
+      ]
+    }
+  }
+]

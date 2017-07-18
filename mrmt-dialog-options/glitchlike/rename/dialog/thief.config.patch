@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/accuse/.mrmtname.",
+    "value": {
+      "default": [
+        "Aghast. You are stealing!",
+        "Angry. You are taking things that aren't yours!",
+        "Disappointed. I assumed you were a nice person, not a thief.",
+        "Bewildered. Those aren't yours, why are you taking them?",
+        "Appalled. A thief!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/alert/.mrmtname.",
+    "value": {
+      "default": [
+        "Incensed. Guards, seize this criminal!",
+        "Panicked. Guards, guards! A thief!",
+        "Indignant. How can you do this!? Guards, help!",
+        "Irate. You thieving scoundrel! Guards!",
+        "Enraged. Stop this thievery! Guards, help me!"
+      ]
+    }
+  }
+]

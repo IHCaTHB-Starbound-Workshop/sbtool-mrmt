@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      ".mrmtname.": [
+        "Surprised. A fellow .mrmttitlename.! My name is <selfname> - it's a pleasure to make your acquaintance.",
+        "Welcoming. Visitors here are rare, and fellow .mrmttitlename. visitors are even rarer!",
+        "Pleased. The low-moisture atmosphere on board this ship is good for preventing rust.",
+        "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!",
+        "Exhausted. I think I frayed a few wires after moving heavy cargo around...",
+        "Overwhelmed. I didn't know space travel even existed for many years. Isn't it exciting?",
+        "Eager. We don't get visitors often! Are you staying for long?"
+      ],
+      "default": [
+        "Pleased. The low-moisture atmosphere on board this ship is good for preventing rust.",
+        "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of chess!",
+        "Exhausted. I think I frayed a few wires after moving heavy cargo around...",
+        "Overwhelmed. I didn't know space travel even existed for many years. Isn't it exciting?",
+        "Eager. We don't get visitors often! Are you staying for long?"
+      ]
+    }
+  }
+]

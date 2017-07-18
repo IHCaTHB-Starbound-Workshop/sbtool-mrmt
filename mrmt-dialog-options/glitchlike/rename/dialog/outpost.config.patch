@@ -1,0 +1,130 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Confusion. What manner of being are you?"
+      ],
+      "human": [
+        "Superiority. Puny human."
+      ],
+      "apex": [
+        "Shocked. Such a hairy creature!"
+      ],
+      "avian": [
+        "Query. Does your plumage self-assemble, or is it constructed by artisans?"
+      ],
+      "floran": [
+        "Friendly. Greetings plantman."
+      ],
+      "glitch": [
+        "Friendly. Greetings friend."
+      ],
+      ".mrmtname.": [
+        "Friendly. Greetings friend."
+      ],
+      "hylotl": [
+        "Sceptical. For a species that lives underwater, you don't smell very clean."
+      ],
+      "novakid": [
+        "Inquisitive. Greetings, what manner of being are you?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/converse/floran/.mrmrtname.",
+    "value": [
+      "Floran greet metal man!"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/apex/.mrmtname.",
+    "value": [
+      "Hello there, .mrmttitlename.."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/glitch/.mrmtname.",
+    "value": [
+      "Friendly. Greetings friend."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/hylotl/.mrmtname.",
+    "value": [
+      "Oh, a robot."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/.mrmtname.",
+    "value": [
+      "Hello there, .mrmttitlename.."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/human/.mrmtname.",
+    "value": [
+      "Whoa, nice, a robot."
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/flee/helpme/.mrmtname.",
+    "value": {
+      "default": [
+        "Fear. Help me!",
+        "Intimidated. Please don't hurt me!",
+        "Abused. I've been accosted!",
+        "Afraid. Get away from me!",
+        "Terrified. Save me!",
+        "Shocked. No! Get away from me!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flee/helpthem/.mrmtname.",
+    "value": {
+      "default": [
+        "Fear. Somebody help!",
+        "Intimidated. Please don't hurt me!",
+        "Afraid. Leave me be!",
+        "Terrified. Save me!",
+        "Shocked. What have you done?!",
+        "Righteous. I will write an electronic letter in protest!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flee/encourage/.mrmtname.",
+    "value": {
+      "default": [
+        "Encourage. Put 'em to the sword!",
+        "Excitement. Avenge me!",
+        "Aggressive. Strike him down!",
+        "Vengeful. Don't let 'em get away!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flee/safe/.mrmtname.",
+    "value": {
+      "default": [
+        "Relieved. Phew, I think I got away.",
+        "Thankful. I've escaped with my life!",
+        "Wishful. If only I could afford a keep.",
+        "Hopeful. Am I safe?",
+        "Embarrassed. I think I leaked a little oil."
+      ]
+    }
+  }
+]

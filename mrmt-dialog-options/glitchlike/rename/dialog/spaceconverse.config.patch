@@ -1,0 +1,31 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      ".mrmtname.": [
+        "Pleased. Another .mrmttitlename.! If you are here, you must also be self-aware. There is strength in numbers, my friend!",
+        "Pleased. The low-moisture atmosphere in space is good for preventing rust.",
+        "Excited. I spend much of my life not knowing space even existed, and now I am here!",
+        "Determined. I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
+        "Worried. Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
+        "Amicable. Welcome, fellow .mrmttitlename.! I am <selfname>. I wish you well on your travels.",
+        "Curious. Have you always known about space travel? Did you always dream about venturing through the stars?",
+        "Concerned. I thought I'd be free from dangerous monsters when I came to space, but now I hear there are space monsters as well?!",
+        "Eager. Before I gained self-awareness, I hunted monsters for my village. Perhaps I shall do the same here in space?",
+        "Curious. Are the rumours of space parasites true? I dearly hope not!"
+      ],
+      "default": [
+        "Pleased. The low-moisture atmosphere in space is good for preventing rust.",
+        "Excited. I spend much of my life not knowing space even existed, and now I am here!",
+        "Determined. I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
+        "Worried. Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
+        "Amicable. Welcome, spacefarer! I am <selfname>. I wish you well on your travels.",
+        "Curious. Have you always known about space travel? Did you always dream about venturing through the stars?",
+        "Concerned. I thought I'd be free from dangerous monsters when I came to space, but now I hear there are space monsters as well?!",
+        "Eager. Before I gained self-awareness, I hunted monsters for my village. Perhaps I shall do the same here in space?",
+        "Curious. Are the rumours of space parasites true? I dearly hope not!"
+      ]
+    }
+  }
+]

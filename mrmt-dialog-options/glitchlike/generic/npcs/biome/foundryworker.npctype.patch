@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Exhausted. Foundry work is hard work!",
+        "Fatigued. I have been working hard here. I'm nearly reaching melting point!",
+        "Eager. My work is never done!",
+        "Tired. My shift isn't over yet!"
+      ]
+    }
+  }
+]

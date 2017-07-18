@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Curious. There must be something you need on this planet, otherwise you wouldn't come here.",
+        "Jovial. Welcome to the desert!",
+        "Worried. I should take some shade before my circuits overheat.",
+        "Irritated. There is sand in my joints.",
+        "Meditative. This place may be cold, but it sure is beautiful.",
+        "Curious. What brings you here? Are you conducting research too?"
+      ]
+    }
+  }
+]

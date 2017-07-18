@@ -1,0 +1,57 @@
+[
+  {
+    "op": "add",
+    "path": "/tagCriteria/.mrmtname.",
+    "value": {
+      "default": [
+        "Confused. My home is different.",
+        "Discontent. I dislike these changes, put things back how they were.",
+        "Wistful. I wish my house was how it used to be."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/.mrmtname.",
+    "value": {
+      "default": [
+        "Despondent. My poor house - the walls are damaged. Could you fix things up?",
+        "Concerned. There is a need for repairs here.",
+        "Hopeful. Can you fix my home? I'm sure it's salvageable."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/.mrmtname.",
+    "value": {
+      "default": [
+        "Shocked. Are you trying to move a stranger into my home?",
+        "Confused. But this is my home, I can't share it...",
+        "Sad. I thought this place was my very own home, but you want me to share it."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/severe/.mrmtname.",
+    "value": {
+      "default": [
+        "Aggravated. I need you to fix my home.",
+        "Frustrated. I wish my requests were listened to.",
+        "Unhappy. The fixes to my home haven't been made."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/final/.mrmtname.",
+    "value": {
+      "default": [
+        "Overwhelmed. This is beyond me. I'm taking my leave.",
+        "Outraged. I deserve a better home than this",
+        "Upset. I didn't want it to come to this, but I can't stay here any longer."
+      ]
+    }
+  }
+]

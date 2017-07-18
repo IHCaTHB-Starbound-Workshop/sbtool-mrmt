@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/attack/glitch",
+    "value": {
+      "default": [
+        "Excited. A foe!",
+        "Pugnacious. Have at thee!",
+        "Calm. I will not be easily overcome.",
+        "Daring. To battle!",
+        "Courageous. I shall defeat this foe!",
+        "Eager. You have breathed your last!",
+        "Aggressive. Prepare to lose your life!"
+      ]
+    }
+  }
+]

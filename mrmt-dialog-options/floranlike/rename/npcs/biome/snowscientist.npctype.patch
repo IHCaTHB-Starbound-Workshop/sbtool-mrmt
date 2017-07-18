@@ -1,0 +1,19 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Not many .mrmttitlename.sss come to cold planet.",
+        "Sssmall cold OK but too much cold bad for .mrmttitlename..",
+        ".mrmttitlename. welcomesss you, but wonder why you wantsss cold.",
+        ".mrmttitlename. will freeze!",
+        "If you like sssnow there isss ssso much.",
+        "Thisss not even coldessst .mrmttitlename. hass been!",
+        "Ssso cold. Lab coat uselessss.",
+        ".mrmttitlename. try taking notesss but .mrmttitlename. sssssso cold!",
+        ".mrmttitlename. read ressearch notess. \"ssstab snow maybe\"."
+      ]
+    }
+  }
+]

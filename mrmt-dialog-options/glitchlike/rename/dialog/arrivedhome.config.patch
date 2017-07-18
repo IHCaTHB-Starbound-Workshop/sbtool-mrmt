@@ -1,0 +1,28 @@
+[
+  {
+    "op": "add",
+    "path": "/beacon/.mrmtname.",
+    "value": {
+      "default": [
+        "Interested. You need me for something?",
+        "Curious. Did you need me for a particular reason?",
+        "Jovial. Here I am! What did you want to talk about?",
+        "Friendly. Did you want to chat?",
+        "Polite. Is this a social call?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/rent/.mrmtname.",
+    "value": {
+      "default": [
+        "Optimistic. This is going very well! Here's a gift to say thank you.",
+        "Appreciative. Here is a gift, for all your help.",
+        "Respectful. A gift of thanks.",
+        "Grateful. I got you a present for all you've done for me.",
+        "Friendly. I hope you like the gift, you've earned it!"
+      ]
+    }
+  }
+]

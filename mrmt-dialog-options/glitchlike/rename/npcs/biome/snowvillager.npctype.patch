@@ -1,0 +1,15 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Boastful. Luckily, I'm used to these cold conditions!",
+        "Curious. There must be something you need on this planet, otherwise you wouldn't come here!",
+        "Concerned. If you aren't prepared, this weather will freeze you solid!",
+        "Thoughtful. It's pretty cold here, huh? I don't mind it, myself.",
+        "Vacillating. Cold is good for the circuits, but moisture is bad."
+      ]
+    }
+  }
+]

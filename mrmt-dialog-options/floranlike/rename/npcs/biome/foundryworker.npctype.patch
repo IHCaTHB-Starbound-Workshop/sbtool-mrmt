@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Hot air bad for .mrmttitlename.. .mrmttitlename. need water a lot.",
+        "Armor protectsss .mrmttitlename.. If no armor...no .mrmttitlename..",
+        "No stab machinery."
+      ]
+    }
+  }
+]

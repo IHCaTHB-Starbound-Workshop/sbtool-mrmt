@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/mrmtType/dialog/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Not many itsss come to cold planet.",
+        "Sssmall cold OK but too much cold bad for me.",
+        "Me welcomesss you, but wonder why you wantsss cold.",
+        "Me will freeze!",
+        "If you like sssnow there isss ssso much.",
+        "Thisss not even coldessst me hass been!"
+      ]
+    }
+  }
+]
