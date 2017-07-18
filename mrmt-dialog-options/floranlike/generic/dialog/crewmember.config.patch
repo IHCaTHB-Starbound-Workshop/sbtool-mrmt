@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Me likess to hunt among the sstars.",
+        "Me isss very professional!",
+        "Me isss eager to sstab things soon!"
+      ]
+    }
+  }
+]

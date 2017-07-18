@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/.mrmtname.",
+    "value": {
+      "default": [
+        "Eager. I have so much scheduled for today!",
+        "Excited. Let's do some quests!",
+        "Excited. There is so much questing to be done!",
+        "Friendly. You'll be safe if you stay close to me!"
+      ]
+    }
+  }
+]
