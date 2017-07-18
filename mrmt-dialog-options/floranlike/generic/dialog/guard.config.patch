@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/hail/.mrmtname.",
+    "value": {
+      "default": [
+        "Sstay out of trouble.",
+        "Me does not like your face.",
+        "No ssilliness.",
+        "Behave yourssself.",
+        "Me wantsss to stab sssomething...",
+        "Me is hungry...",
+        "Give me a reassson.",
+        "Don't tempt me.",
+        "Keep moving, sstranger.",
+        "Troublemakers are tasty."
+      ]
+    }
+  }
+]

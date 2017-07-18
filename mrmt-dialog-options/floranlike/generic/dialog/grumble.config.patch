@@ -1,0 +1,57 @@
+[
+  {
+    "op": "add",
+    "path": "/tagCriteria/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstop taking away my nice ssstuff.",
+        "Put it's home back how it wasss.",
+        "It's house was great before. Make it right again!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/.mrmtname.",
+    "value": {
+      "default": [
+        "Please fix it's wallsss.",
+        "It's house is broken. Can you fix it?",
+        "Me likess walls without holes. Can you fix it's house?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/.mrmtname.",
+    "value": {
+      "default": [
+        "Me needs all this space, not sharing with some random ssstranger.",
+        "If you move in sssomeone else, me will eat them.",
+        "It's not sharing home! Take ssecond deed down."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/severe/.mrmtname.",
+    "value": {
+      "default": [
+        "Me can't live like thisss!",
+        "Me is angry, fix it's house.",
+        "You sssstill haven't fixed things in it's house!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/final/.mrmtname.",
+    "value": {
+      "default": [
+        "That'sss it, me is leaving!",
+        "Me givess up! me can't live like this!",
+        "Me iss going, can't live here anymore!"
+      ]
+    }
+  }
+]

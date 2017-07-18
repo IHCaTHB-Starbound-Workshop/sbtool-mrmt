@@ -1,0 +1,57 @@
+[
+  {
+    "op": "add",
+    "path": "/tagCriteria/.mrmtname.",
+    "value": {
+      "default": [
+        "Ssstop taking away my nice ssstuff.",
+        "Put .mrmttitlename.'s home back how it wasss.",
+        ".mrmttitlename.'s house was great before. Make it right again!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/.mrmtname.",
+    "value": {
+      "default": [
+        "Please fix .mrmttitlename.'s wallsss.",
+        ".mrmttitlename.'s house is broken. Can you fix it?",
+        ".mrmttitlename. likess walls without holes. Can you fix .mrmttitlename.'s house?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. needs all this space, not sharing with some random ssstranger.",
+        "If you move in sssomeone else, .mrmttitlename. will eat them.",
+        ".mrmttitlename.'s not sharing home! Take ssecond deed down."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/severe/.mrmtname.",
+    "value": {
+      "default": [
+        ".mrmttitlename. can't live like thisss!",
+        ".mrmttitlename. is angry, fix .mrmttitlename.'s house.",
+        "You sssstill haven't fixed things in .mrmttitlename.'s house!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/final/.mrmtname.",
+    "value": {
+      "default": [
+        "That'sss it, .mrmttitlename. is leaving!",
+        ".mrmttitlename. givess up! .mrmttitlename. can't live like this!",
+        ".mrmttitlename. iss going, can't live here anymore!"
+      ]
+    }
+  }
+]

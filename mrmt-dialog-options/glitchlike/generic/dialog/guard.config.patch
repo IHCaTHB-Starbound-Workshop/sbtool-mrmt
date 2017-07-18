@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/hail/.mrmtname.",
+    "value": {
+      "default": [
+        "Cautious. Behave yourself.",
+        "Suspicious. What is your purpose here?",
+        "Inexperienced. Eep!",
+        "Alert. Who are you?",
+        "Optimistic. I'm sure you won't be any trouble.",
+        "Reticent. You won't be a problem...",
+        "Stern. You behave yourself.",
+        "Insincere. Have an absolutely wonderful day.",
+        "Dismissive. Try not to get yourself killed.",
+        "Concerned. Should you be here?"
+      ]
+    }
+  }
+]
