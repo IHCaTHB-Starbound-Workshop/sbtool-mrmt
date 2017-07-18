@@ -1,12 +1,12 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/converse/.mrmttitlename.",
+    "path": "/scriptConfig/dialog/converse/.mrmtname.",
     "value": {
       "default": [
-        ".mrmttitlename. make ssscary face but you no see through helmet.",
-        "Maybe .mrmttitlename. eat alien ssample...for sssscience.",
-        ".mrmttitlename. taught sself to say my-grow-organ-is-them!"
+        "Me make ssscary face but you no see through helmet.",
+        "Maybe me eat alien ssample...for sssscience.",
+        "Me taught sself to say my-grow-organ-is-them!"
       ]
     }
   }
