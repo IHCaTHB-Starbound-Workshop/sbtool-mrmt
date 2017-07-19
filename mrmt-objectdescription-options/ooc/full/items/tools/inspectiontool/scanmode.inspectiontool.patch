@@ -2,11 +2,11 @@
   {
     "op" : "add",
     "path" : "/outOfRangeText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [ "((Out of range.))" ]
   },
   {
     "op" : "add",
     "path" : "/nothingThereText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [ "((Nothing there.))" ]
   }
 ]

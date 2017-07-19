@@ -2,11 +2,21 @@
   {
     "op" : "add",
     "path" : "/outOfRangeText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      "Disappointed. I cannot see that spot from this position.",
+      "Puzzled. I'm not sure what that is; perhaps I should get closer.",
+      "Frustrated. I cannot see that from here.",
+      "Irked. I am not close enough to see that."
+    ]
   },
   {
     "op" : "add",
     "path" : "/nothingThereText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      "Unimpressed. Nothing of interest here.",
+      "Neutral. There is nothing there.",
+      "Disappointed. Nothing interesting.",
+      "Disinterested. This isn't really anything."
+    ]
   }
 ]

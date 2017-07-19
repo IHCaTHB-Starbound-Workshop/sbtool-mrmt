@@ -2,11 +2,21 @@
   {
     "op" : "add",
     "path" : "/outOfRangeText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      ".mrmttitlename. cannot sssee from here!",
+      ".mrmttitlename. needs to get closer to sssee that.",
+      ".mrmttitlename. can't see that ssspot.",
+      ".mrmttitlename.'s not clossse enough to see that."
+    ]
   },
   {
     "op" : "add",
     "path" : "/nothingThereText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      "Nothing of interessst.",
+      "Nothing to sssee.",
+      "This isssn't anything.",
+      "Nothing much to sspeak of."
+    ]
   }
 ]

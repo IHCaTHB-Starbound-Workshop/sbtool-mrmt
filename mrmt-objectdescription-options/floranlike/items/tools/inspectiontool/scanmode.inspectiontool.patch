@@ -2,11 +2,21 @@
   {
     "op" : "add",
     "path" : "/outOfRangeText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      "Scanner not ssstrong enough! .mrmttitlename. must move in.",
+      "That's outsssside scanner's range.",
+      "Ssignal's too faint to make out, .mrmttitlename. not close enough.",
+      "Mussst be out of range, .mrmttitlename. can't get a reading."
+    ]
   },
   {
     "op" : "add",
     "path" : "/nothingThereText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      "Nothing of interessst.",
+      "Nothing to sscan.",
+      "This isssn't anything.",
+      "Nothing much to sspeak of."
+    ]
   }
 ]

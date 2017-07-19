@@ -2,11 +2,21 @@
   {
     "op" : "add",
     "path" : "/outOfRangeText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      "Disappointed. This hardware's sensors are insufficient to analyze that position from here.",
+      "Puzzled. I cannot seem to get a reading; perhaps I should get closer.",
+      "Frustrated. The signal is too faint to make out, I believe I'm out of range.",
+      "Irked. It must be out of range, I cannot get a reading."
+    ]
   },
   {
     "op" : "add",
     "path" : "/nothingThereText/.mrmtname.",
-    "value" : [ ".descstring." ]
+    "value" : [
+      "Unimpressed. Nothing of interest here.",
+      "Neutral. There is nothing there.",
+      "Disappointed. Nothing there to scan.",
+      "Disinterested. This isn't really anything."
+    ]
   }
 ]
