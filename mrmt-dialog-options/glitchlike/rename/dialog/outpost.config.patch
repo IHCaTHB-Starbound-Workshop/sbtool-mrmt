@@ -34,7 +34,7 @@
   },
   {
     "op": "add",
-    "path": "/converse/floran/.mrmrtname.",
+    "path": "/converse/floran/.mrmtname.",
     "value": [
       "Floran greet metal man!"
     ]
