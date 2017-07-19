@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "add",
+    "path" : "/outOfRangeText/.mrmtname.",
+    "value" : [ ".descstring." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/nothingThereText/.mrmtname.",
+    "value" : [ ".descstring." ]
+  }
+]
