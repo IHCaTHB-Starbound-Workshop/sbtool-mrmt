@@ -9,7 +9,9 @@ IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
 
 [Chucklefish], developer and publisher of [Starbound].
 
-[Miss Skittles], [Skittle Race Mod].
+[Miss Skittles], [Skittles Race Mod].
+
+[GTG3000], [Starbound Race Description Patcher - Compiler tool].
 
 [The Starbound official forums modding community], constant support and just being awesome in general.
 
@@ -44,3 +46,7 @@ http://chbrown.github.io/rfc6902/
 [Miss Skittles]: http://community.playstarbound.com/members/96422/
 
 [Skittles Race Mod]: http://community.playstarbound.com/resources/956/
+
+[GTG3000]: http://community.playstarbound.com/members/191401/
+
+[Starbound Race Description Patcher - Compiler tool]: http://community.playstarbound.com/resources/4306/
