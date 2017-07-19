@@ -1,0 +1,14 @@
+[
+  {
+    "op" : "add",
+    "path" : "/scriptConfig/list/-",
+    "value" : {
+      "options" : [
+        {
+          "species": [ ".mrmtname." ],
+          "type": [ "villager" ]
+        }
+      ]
+    }
+  }
+]
