@@ -6,7 +6,7 @@
       "options" : [
         {
           "species": [ ".mrmtname." ],
-          "type": [ "astrocrewmate", "industrialcrewmate", "researchcrewmate", "researchscientist", "spacevillager", "outpostcivilian" ]
+          "type": [ "museumvisitor" ]
         }
       ]
     }
