@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/spawner/npcSpecies/-",
+    "value": ".mrmtname"
+  }
+]
