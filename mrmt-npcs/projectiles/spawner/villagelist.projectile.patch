@@ -6,7 +6,7 @@
       "options" : [
         {
           "species": [ ".mrmtname." ],
-          "type": [ villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
+          "type": [ "villager", "villager", "villager", "villager", "villageguard", "villageguard", "villageguardcaptain" ]
         }
       ]
     }
