@@ -76,6 +76,13 @@
   },
   {
     "op": "add",
+    "path": "/converse/default/.mrmtname.",
+    "value": [
+      "Whoa, nice, a robot."
+    ]
+  },
+  {
+    "op": "add",
     "path": "/flee/helpme/.mrmtname.",
     "value": {
       "default": [

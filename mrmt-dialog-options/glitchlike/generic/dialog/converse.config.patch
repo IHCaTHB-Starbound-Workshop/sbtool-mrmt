@@ -505,5 +505,34 @@
       "I like the way you dress, metal friend o' mine.",
       "I sure hope you don't rust up next time it's rainin'!"
     ]
+  },
+  {
+    "op": "add",
+    "path": "/converse/default/.mrmtname.",
+    "value": [
+      "Whoa, nice, a robot.",
+      "The future, it's here!",
+      "How do you work?",
+      "Sometimes I like to pretend I'm an old timey knight!",
+      "No bones about it, robots are just awesome.",
+      "Do you ever have to replace your eye bulbs?",
+      "Jovial. Hello! Uh, I hope that wasn't offensive.",
+      "I once made a .mrmttitlename. costume out of cardboard.",
+      "The .mrmttitlename. have a funny way of talking... Cuts out the flim-flam though.",
+      "My dad is a mechanic, but I guess in .mrmttitlename. terms he's a doctor.",
+      "You're a bit creaky, maybe you should oil your joints.",
+      "I too have a hard outer shell, however, mine is figurative.",
+      "That's a nice alloy you've got there.",
+      "I've always wanted to hang out with a robot.",
+      "What's it like to be made of metal?",
+      "Who created you guys, then?",
+      "I want armour like yours.",
+      "I love the way you guys talk.",
+      "So lovely to meet you, .mrmttitlename.!",
+      "What metal are you made from?",
+      "Can you go in the water?",
+      "You're quite small for a killer robot.",
+      "You have the coolest face."
+    ]
   }
 ]

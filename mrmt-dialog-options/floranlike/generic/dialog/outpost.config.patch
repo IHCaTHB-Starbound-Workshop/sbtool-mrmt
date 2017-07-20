@@ -76,6 +76,13 @@
   },
   {
     "op": "add",
+    "path": "/converse/default/.mrmtname.",
+    "value": [
+      "A triffid!"
+    ]
+  },
+  {
+    "op": "add",
     "path": "/flee/helpme/.mrmtname.",
     "value": {
       "default": [

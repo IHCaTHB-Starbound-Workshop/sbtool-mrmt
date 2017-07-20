@@ -563,4 +563,33 @@
       "You sure do have some big eyes. I'm sure yer have a big heart as well!"
     ]
   },
+  {
+    "op": "add",
+    "path": "/converse/default/.mrmtname.",
+    "value": [
+      "Yo there, talking tree.",
+      "You're pretty cute.",
+      "Aren't your kind meant to be savage? You don't seem it.",
+      "You could do with a pruning.",
+      "It's hard to believe you're a lethal killer!",
+      "Do you guys have pollen?",
+      "Do you ever get attacked by giant hummingbirds?",
+      "I met a greenfinger once - real nice guy... Or girl... Or neither?",
+      "Could you teach me how to hunt some time?",
+      "I wish I was a .mrmttitlename..",
+      "I've heard .mrmttitlename. can be pretty vicious, but you seem kinda nice.",
+      "Which meat is the best meat?",
+      "I want to go into spear production, do you think there's a market for it?",
+      "You're so pretty.",
+      "I'm scared of you.",
+      "My best friend growing up was a .mrmttitlename.. They ate my rabbit, but I didn't mind.",
+      "Do .mrmttitlename. ever get like 250ft tall, like a sequoia tree with a face?",
+      "I got my eye on you.",
+      "It's pretty exciting to see you!",
+      "I hear you and the fish people don't get on?",
+      "I bet you've killed more monsters than I've had hot dinners.",
+      "Can you read?",
+      "You are the best!"
+    ]
+  }
 ]
