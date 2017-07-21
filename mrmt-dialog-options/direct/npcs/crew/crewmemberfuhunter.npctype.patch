@@ -1,0 +1,71 @@
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
+    "from": "/scriptConfig/dialog/crewmember/offer/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
+    "from": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
+    "from": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
+    "from": "/scriptConfig/dialog/crewmember/respawned/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtname.",
+    "from": "/scriptConfig/dialog/crewmember/unfollow/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtname.",
+    "from": "/scriptConfig/dialog/crewmember/follow/.mrmtdialtype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtdialtype."
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtname.",
+    "from": "/scriptConfig/dialog/crewmember/cantreach/.mrmtdialtype."
+  }
+]]
