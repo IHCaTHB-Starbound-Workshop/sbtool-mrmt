@@ -1,0 +1,1 @@
+[{"op": "add","path": "/.mrmtname.Description","value": "((An /'XOR'/ gate with 3 inputs and a built-in Data Latch and Not Gate. Only activates when an odd number of inputs are live.))"}]

@@ -1,0 +1,1 @@
+[{"op": "add","path": "/.mrmtname.Description","value": "((A 3-bit sequencer. Outputs a signal based on which of the 8 states it's currently on.))"}]

@@ -1,0 +1,1 @@
+[{"op": "add","path": "/.mrmtname.Description","value": "((A /'NXOR'/ gate. Remains on unless exactly 2 inputs are on, and the rest off.))"}]
