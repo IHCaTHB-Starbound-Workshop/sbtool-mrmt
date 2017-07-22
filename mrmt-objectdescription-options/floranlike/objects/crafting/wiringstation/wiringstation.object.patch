@@ -1,1 +1,7 @@
-[{"op": "add","path": "/.mrmtname.Description","value": ".mrmttitlename. can make equipment for wiring thingsss."}]
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": ".mrmttitlename. can make equipment for wiring thingsss."
+  }
+]

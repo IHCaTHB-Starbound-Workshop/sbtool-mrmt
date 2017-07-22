@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Observation. Sends a 5-second-long signal pulse whenever, and as soon as, it becomes active."
+  }
+]

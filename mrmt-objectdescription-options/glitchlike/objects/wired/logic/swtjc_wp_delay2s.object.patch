@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Neutral. A circuit that relays signals after a set delay."
+  }
+]

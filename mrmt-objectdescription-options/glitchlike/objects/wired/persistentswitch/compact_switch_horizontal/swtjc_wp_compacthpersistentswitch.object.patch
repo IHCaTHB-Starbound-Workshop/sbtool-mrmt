@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Neutral. Once triggered this switch will remain in its switched state."
+  }
+]

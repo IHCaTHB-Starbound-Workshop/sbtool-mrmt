@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Observation. Stops transmitting signals for 1 second whenever it becomes active."
+  }
+]

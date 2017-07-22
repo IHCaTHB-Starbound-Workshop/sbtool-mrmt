@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Fascinated. The left, or 'Enable', node controls whether or not the latch can change states based on its right, or 'Data', node."
+  }
+]

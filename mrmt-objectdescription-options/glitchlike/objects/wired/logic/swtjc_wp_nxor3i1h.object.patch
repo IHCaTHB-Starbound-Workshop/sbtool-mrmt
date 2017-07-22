@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Observation. An /'XOR'/ gate. Remains on unless exactly 1 input is on, and the rest off."
+  }
+]

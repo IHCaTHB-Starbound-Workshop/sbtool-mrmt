@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Analytical. Atmospheric interference means this panel will generate less power at low altitudes."
+  }
+]

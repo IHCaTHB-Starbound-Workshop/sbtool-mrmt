@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Observation. This device appears to have 2 separated metal rails connected to a high voltage power source."
+  }
+]

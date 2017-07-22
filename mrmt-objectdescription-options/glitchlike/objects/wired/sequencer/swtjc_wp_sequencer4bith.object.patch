@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Fascinated. A 4-bit sequencer. Outputs a signal based on which of the 16 states it's currently on."
+  }
+]

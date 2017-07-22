@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Content. Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient."
+  }
+]

@@ -1,1 +1,7 @@
-[{"op": "add","path": "/.mrmtname.Description","value": "Thiss blue flower can be used to colour clothes!"}]
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Pretty."
+  }
+]

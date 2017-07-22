@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Annoyed. A broken switch that can only be toggled when its input node is /'on'/."
+  }
+]

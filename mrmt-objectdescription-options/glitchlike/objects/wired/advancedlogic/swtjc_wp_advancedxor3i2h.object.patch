@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Analyzing. I'd wager that the input node to the right is the Data Latch."
+  }
+]

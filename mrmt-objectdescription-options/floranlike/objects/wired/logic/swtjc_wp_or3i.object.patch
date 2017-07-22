@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "An /'OR'/ gate. Requiresss at leassst 1 input to be /'on'/ to work."
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Thoughtful. A more advanced light sensor that activates various nodes based upon whether or not ambient light levels exceed certain thresholds."
+  }
+]

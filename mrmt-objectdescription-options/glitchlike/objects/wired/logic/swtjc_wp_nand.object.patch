@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/.mrmtname.Description",
+    "value": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work."
+  }
+]
