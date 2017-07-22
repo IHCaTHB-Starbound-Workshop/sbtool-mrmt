@@ -6,7 +6,7 @@
       "default": [
         "Hello adventurer, maybe .mrmttitlename. join you and SSSTAB SOME ASS?!?!?",
         "Look at that gear! Let .mrmttitlename. go with you and SSSTAB THE PREY!",
-        "FLORAN ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE FLORAN MAYBE YOU WEAK NO-SSSTABBY?!?!?!",
+        ".mrmtcapname. ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE .mrmtcapname. MAYBE YOU WEAK NO-SSSTABBY?!?!?!",
         "Hire .mrmttitlename.. That isss not request."
       ]
     }
@@ -16,9 +16,9 @@
     "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
     "value": {
       "default": [
-        "I'M READY TO SSTAB, SHOOT AND KILL ALL THE PREY!",
+        ".mrmttitlename. READY TO SSTAB, SHOOT AND KILL ALL THE PREY!",
         "Do you have burrito? .mrmttitlename. hungry.",
-        ".mrmttitlename. wonder what sssawing ssomeone in half with BULLETSS would be like? MAYBE FLORAN TRY!"
+        ".mrmttitlename. wonder what sssawing ssomeone in half with BULLETSS would be like? MAYBE .mrmtcapname. TRY!"
       ]
     }
   },
@@ -27,7 +27,7 @@
     "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
     "value": {
       "default": [
-        ".mrmttitlename. GOING TO FIND THAT THING AND STAB IT IN VENGEANCE!",
+        ".mrmtcapname. GOING TO FIND THAT THING AND STAB IT IN VENGEANCE!",
         "CRAP! ANOTHER GLORIOUSSSS DEATH? THAT'SSS 42 THISS WEEK!",
         ".mrmttitlename. already missssing murder! Get .mrmttitlename. back out there, Sssir!",
         ".mrmttitlename. need to cave in the ssskull of whatever jusst killed .mrmttitlename.."
