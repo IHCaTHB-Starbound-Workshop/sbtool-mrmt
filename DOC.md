@@ -1,6 +1,6 @@
 # sbtool-mrmt
 # documentation
-last updated yyyy-mm-dd for version 0.1
+last updated 2017-07-22 for version 0.1
 
 ## frontend
 ### usage
@@ -14,11 +14,6 @@ It is recomended that you use all lowercase alphanumeric characters and do not u
 
 ### licensing
 
-No attribution is required when publishing a project made with this template but it is appreciated.
+Attribution is _not_ required when publishing a project made with this template. It is still appreciated.
 
 ## backend
-### references
-
-### duplicates
-
-### files that could have been referenced but were duplicated instead, and why

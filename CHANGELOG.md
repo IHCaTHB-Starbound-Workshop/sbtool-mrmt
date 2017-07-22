@@ -1,8 +1,9 @@
 # sbtool-mrmt
 # changelog
 
-### vur
-+ b
-
-### v0.1 yyyy-mm-dd
-+ a
+### v0.1 2017-07-22
++ race base template module
++ npcs core module
++ dialog options module
++ object descriptions options module
++ i seen some shit

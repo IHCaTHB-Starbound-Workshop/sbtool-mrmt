@@ -1,26 +1,3 @@
-#######
-#ingame
-#######
-
-^#5aa9d6;titleflag^reset;
-
-bodyflag
-
-For more, click the MEGATHREAD link from the steam page.
-
-######
-#steam
-######
-
-[h1]titleflag[/h1]
-
-bodyflag
-
-[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-[url=https://github.com/IHCaTHB-Starbound-Workshop/sbtool-mrmt/blob/master/CHANGELOG]CHANGELOG[/url]
-Alternate downloads can be found on my [url=https://github.com/IHCaTHB-Starbound-Workshop/sbtool-mrmt/releases]github.[/url]
-version currently on Steam: 0.1
-
 ######
 #forum
 ######
