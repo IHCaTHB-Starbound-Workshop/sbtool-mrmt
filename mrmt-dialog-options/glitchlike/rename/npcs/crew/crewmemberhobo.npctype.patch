@@ -1,0 +1,38 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran",
+    "value": {
+      "default": [
+        "Floran booze kin fuel ship! Itsh shuuuper good! *hic*"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch",
+    "value": {
+      "default": [
+        "Statement. My booze can help fuel your ship. It is super good."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran",
+    "value": {
+      "default": [
+        "Floran isss wildly intoxicated! Floran not drinking alone! You take some!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch",
+    "value": {
+      "default": [
+        "Eager. Have some carbonated alcoholic beverage. This is not optional."
+      ]
+    }
+  }
+]
