@@ -1,167 +1,84 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/offer/floran",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
     "value": {
       "default": [
-        "Hello adventurer, mind if Floran join you and hurl beeeessss at thingss?",
-        "Floran called <selfname> and really want to throw beeeessss at people. Do you want to hire Floran?",
-        "You are JUSSST the kind of persson Floran should throw beeeessss for! Hire Floran maybe?",
-        "Floran looking for ship to cover in beeeessss. Are you wanting?",
-        "Floran looking for crew. Can Floran join yourss and dump beeeessss everywhere?"
+        "Hello adventurer, mind if .mrmttitlename. join you and hurl beeeessss at thingss?",
+        ".mrmttitlename. called <selfname> and really want to throw beeeessss at people. Do you want to hire .mrmttitlename.?",
+        "You are JUSSST the kind of persson .mrmttitlename. should throw beeeessss for! Hire .mrmttitlename. maybe?",
+        ".mrmttitlename. looking for ship to cover in beeeessss. Are you wanting?",
+        ".mrmttitlename. looking for crew. Can .mrmttitlename. join yourss and dump beeeessss everywhere?"
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/offer/glitch",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
     "value": {
       "default": [
-        "Friendly. Hello adventurer, mind if I join you and hurl bees at things?",
-        "Hopeful. I'm <selfname>, and I really want to throw bees at people. Do you want to employ me?",
-        "Cheerful. You are JUST the kind of person I should throw bees for! Fancy employing me?",
-        "Excited. I'm looking for a ship's crew to cover in bees. Are you interested?",
-        "Ambitious. I'm looking for a place among a crew. Can I join yours and dump bees everywhere?"
+        ".mrmttitlename. be here for you if you need someone to throw beeeessss at things!",
+        "If you need beeeessss, you know where to find .mrmttitlename.!",
+        "If you need beeeessss, .mrmttitlename. be here!"
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
     "value": {
       "default": [
-        "Floran be here for you if you need someone to throw beeeessss at things!",
-        "If you need beeeessss, you know where to find Floran!",
-        "If you need beeeessss, Floran be here!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch",
-    "value": {
-      "default": [
-        "Brave. I'll be here for you if you need someone to throw bees at things!",
-        "Gallant. If you need bees, you know where to find me!",
-        "Stalwart. If you need bees, I'll be here!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran",
-    "value": {
-      "default": [
-        "Let Floran make you immune to BEEEESSSS!",
+        "Let .mrmttitlename. make you immune to BEEEESSSS!",
         "Beeee ssstings ssuck! Now you no worry!",
         "Have ssome beeee-no-ssstabby!",
-        "Floran help you avoid the wrath of beeeeeeessss!!"
+        ".mrmttitlename. help you avoid the wrath of beeeeeeessss!!"
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
     "value": {
       "default": [
-        "Eager. Let me make you immune to BEES!",
-        "Excited. Bee stings suck! Now you don't need to worry!",
-        "Helpful. Have some bee-proofing!",
-        "Helpful. I can help you avoid the wrath of beeeeeees!!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/respawned/floran",
-    "value": {
-      "default": [
-        "Floran feelsss funny.",
-        "Floran not a fan of dying.",
+        ".mrmttitlename. feelsss funny.",
+        ".mrmttitlename. not a fan of dying.",
         "Ressspawning tickles.",
-        "Floran will fight better next time..."
+        ".mrmttitlename. will fight better next time..."
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/respawned/glitch",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtname.",
     "value": {
       "default": [
-        "Dazed. Was I dead?",
-        "Relieved. I'm back!",
-        "Concerned. I hope I respawned properly. Do I look alright?",
-        "Confused. Was I dead for a little while?",
-        "Tired. Respawning is exhausting."
+        ".mrmttitlename. should sstay here?",
+        ".mrmttitlename. will sstay here.",
+        ".mrmttitlename. will sstay, then..."
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/floran",
-    "value": {
-      "default": [
-        "Floran should sstay here?",
-        "Floran will sstay here.",
-        "Floran will sstay, then..."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch",
-    "value": {
-      "default": [
-        "Obliging. I will remain here for now, then.",
-        "Patient. I can wait here, captain.",
-        "Amicable.  I will remain here if you want me to, captain.",
-        "Agreeable. I can stay here if you prefer, captain."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/follow/floran",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtname.",
     "value": {
       "default": [
         "Yesss, Captain!",
         "Let'ss go!",
-        "Captain wantss Floran to follow?",
-        "Floran ready to go again!",
+        "Captain wantss .mrmttitlename. to follow?",
+        ".mrmttitlename. ready to go again!",
         "Are we going ssomewhere?"
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/follow/glitch",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtname.",
     "value": {
       "default": [
-        "Humble. I shall follow, captain.",
-        "Alert. Shall we go, captain?",
-        "Solemn. Is it time to move, captain?",
-        "Inquisitive. Are we going somewhere?"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/floran",
-    "value": {
-      "default": [
-        "Floran too far away!",
-        "Floran iss left behind!",
-        "Floran not close enough to you!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch",
-    "value": {
-      "default": [
-        "Frustrated. I can't reach you!",
-        "Concerned. Wait for me!"
+        ".mrmttitlename. too far away!",
+        ".mrmttitlename. iss left behind!",
+        ".mrmttitlename. not close enough to you!"
       ]
     }
   }

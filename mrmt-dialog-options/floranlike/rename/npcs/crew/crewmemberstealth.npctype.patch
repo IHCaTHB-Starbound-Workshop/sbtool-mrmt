@@ -1,42 +1,21 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
     "value": {
       "default": [
-        "Floran putsss fuel into fuel tank."
+        ".mrmttitlename. putsss fuel into fuel tank."
       ]
     }
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
     "value": {
       "default": [
-        "Statement. I'll put some contraband fuel into the fuel tank."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran",
-    "value": {
-      "default": [
-        "Floran hasss things to help you out!",
-        "Floran can help out!",
-        "Floran hasss things to help!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch",
-    "value": {
-      "default": [
-        "Eager. I can help you out!",
-        "Excited. Perhaps you could do with a power-up!",
-        "Intrigued. I wonder if this will help you?",
-        "Helpful. Take this, it will help!"
+        ".mrmttitlename. hasss things to help you out!",
+        ".mrmttitlename. can help out!",
+        ".mrmttitlename. hasss things to help!"
       ]
     }
   }
