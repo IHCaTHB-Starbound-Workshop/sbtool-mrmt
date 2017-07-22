@@ -1,0 +1,43 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran",
+    "value": {
+      "default": [
+        "Floran sssell thingss to you."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch",
+    "value": {
+      "default": [
+        "Statement. I've got things to sell."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran",
+    "value": {
+      "default": [
+        "Floran hasss things to help you out!",
+        "Floran can help out!",
+        "Floran hasss things to help!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch",
+    "value": {
+      "default": [
+        "Eager. I can help you out!",
+        "Excited. Perhaps you could do with a power-up!",
+        "Intrigued. I wonder if this will help you?",
+        "Helpful. Take this, it will help!"
+      ]
+    }
+  }
+]

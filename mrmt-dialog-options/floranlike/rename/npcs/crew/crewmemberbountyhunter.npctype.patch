@@ -1,0 +1,147 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran",
+    "value": {
+      "default": [
+        "Hello adventurer, maybe Floran join you and SSSTAB SOME ASS?!?!?",
+        "Look at that gear! Let Floran go with you and SSSTAB THE PREY!",
+        "FLORAN ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE FLORAN MAYBE YOU WEAK NO-SSSTABBY?!?!?!",
+        "Hire Floran. That isss not request."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch",
+    "value": {
+      "default": [
+        "Eager. Hello adventurer, mind if I join you and KICK SOME ASS?!?!?",
+        "Impressed. Look at that gear! Let me travel with you, and we can DECIMATE THE OPPOSITION!",
+        "Statement. I'M ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE ME, DON'T YOU, YOU WEAK SISSY?!?!?!",
+        "Statement. Hire me. That is not a request."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran",
+    "value": {
+      "default": [
+        "I'M READY TO SSTAB, SHOOT AND KILL ALL THE PREY!",
+        "Do you have burrito? Floran hungry.",
+        "Floran wonder what sssawing ssomeone in half with BULLETSS would be like? MAYBE FLORAN TRY!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch",
+    "value": {
+      "default": [
+        "Statement. I'M READY TO STAB, SHOOT AND KILL WHATEVER YOU ASK ME TO!",
+        "Request. Do you happen to have a burrito? I've grown rather peckish.",
+        "Murderous. Ever wonder what sawing someone in half with BULLETS would be like? LET'S TRY!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran",
+    "value": {
+      "default": [
+        "FLORAN GOING TO FIND THAT THING AND STAB IT IN VENGEANCE!",
+        "CRAP! ANOTHER GLORIOUSSSS DEATH? THAT'SSS 42 THISS WEEK!",
+        "Floran already missssing murder! Get Floran back out there, Sssir!",
+        "Floran need to cave in the ssskull of whatever jusst killed Floran."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch",
+    "value": {
+      "default": [
+        "Murderous. I'M GOING TO FIND THAT THING AND MURDER IT IN VENGEANCE!",
+        "Incorrigible. CRAP! ANOTHER GLORIOUS DEATH? THAT'S 42 THIS WEEK!",
+        "Eager. I'm already missing murder! Get me back out there, Sir!",
+        "Vengeful. I need to cave in the skull of whatever just killed me."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran",
+    "value": {
+      "default": [
+        "WHAT? TOO MANY AWESOME BULLETS FOR YOU, SSSISSSSY?",
+        "SSIR, YESSSS SIR!",
+        "But...how can Floran ssstab thingss when Floran here?",
+        "Sssir, Floran no kill thingsss from here.",
+        "Fine. Floran sstay. Jusst...sssit here and no stab. Whatever.",
+        "Floran stay here."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch",
+    "value": {
+      "default": [
+        "Critical. WHAT? TOO MANY AWESOME BULLETS FOR YOU, SISSY?",
+        "Obedient. SIR, YES SIR!",
+        "Perplexed. But...how can I murder things without tagging along?",
+        "Curious. Sir, are you sure that is wise? I can't kill things from here.",
+        "Irritated. I'll stay. Just...sit here and be bored. Whatever.",
+        "Statement. I'll stay here."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran",
+    "value": {
+      "default": [
+        "FOR THE HUNT!",
+        "SSIR, YES SSSSIR!",
+        "DEATH TIME!",
+        "Floran good at hunting prey.",
+        "Floran want sssstab!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch",
+    "value": {
+      "default": [
+        "Eager. FOR THE GLORY OF BATTLE, WE RIDE!",
+        "Obedient. SIR, YES SIR!",
+        "Murderous. DEATH TIME!",
+        "Enthusiastic. Your foes will be vanquished, and ale shall be drank.",
+        "Impatient. Let's get a move on, then!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran",
+    "value": {
+      "default": [
+        "Floran too far away!",
+        "Floran iss left behind!",
+        "Floran not close enough to you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch",
+    "value": {
+      "default": [
+        "Frustrated. I can't reach you!",
+        "Concerned. Wait for me!"
+      ]
+    }
+  }
+]
