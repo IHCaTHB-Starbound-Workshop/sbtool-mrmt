@@ -1,18 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/offer/floran",
-    "value": {
-      "default": [
-        "Floran wantss to join ship crew!",
-        "Floran interesssted in long term employment. Can you give Floran a job?",
-        "You look ssstrong. Floran wants to join you!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/offer/glitch",
+    "path": "/scriptConfig/dialog/crewmember/offer/.mrmtname.",
     "value": {
       "default": [
         "Excited. Can I join you in the stars? I have skills that could help you!",
@@ -23,19 +12,7 @@
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran",
-    "value": {
-      "default": [
-        "Floransss sstabbing sskills protect you from jungless.",
-        "Floran will find enemy to ssstab! This terrain is not even a bother to Floran!",
-        "Floran help you hunt in jungle!",
-        "Mud? Clay? Hah. Floran ssstill hunt."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
     "value": {
       "default": [
         "Statement. My tough-as-nails training will protect you from jungles.",
@@ -47,18 +24,7 @@
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran",
-    "value": {
-      "default": [
-        "Floran will stay here until you need Floran to ssstab or shoot something.",
-        "Floran is bessst hunter! Ask Floran if you need help some time.",
-        "Floran here to help you fight if you need it!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
     "value": {
       "default": [
         "Gallant. I'll be here if you need a warrior to defend you!",
@@ -70,19 +36,7 @@
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/respawned/floran",
-    "value": {
-      "default": [
-        "Floran feelsss funny.",
-        "Floran not a fan of dying.",
-        "Ressspawning tickles.",
-        "Floran will fight better next time..."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/respawned/glitch",
+    "path": "/scriptConfig/dialog/crewmember/respawned/.mrmtname.",
     "value": {
       "default": [
         "Dazed. Was I dead?",
@@ -95,18 +49,7 @@
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/floran",
-    "value": {
-      "default": [
-        "Floran should sstay here?",
-        "Floran will sstay here.",
-        "Floran will sstay, then..."
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/.mrmtname.",
     "value": {
       "default": [
         "Obliging. I will remain here for now, then.",
@@ -118,20 +61,7 @@
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/follow/floran",
-    "value": {
-      "default": [
-        "Yesss, Captain!",
-        "Let'ss go!",
-        "Captain wantss Floran to follow?",
-        "Floran ready to go again!",
-        "Are we going ssomewhere?"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/follow/glitch",
+    "path": "/scriptConfig/dialog/crewmember/follow/.mrmtname.",
     "value": {
       "default": [
         "Humble. I shall follow, captain.",
@@ -143,18 +73,7 @@
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/floran",
-    "value": {
-      "default": [
-        "Floran too far away!",
-        "Floran iss left behind!",
-        "Floran not close enough to you!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/.mrmtname.",
     "value": {
       "default": [
         "Frustrated. I can't reach you!",

@@ -1,16 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran",
-    "value": {
-      "default": [
-        "Floran will give ship fuel boostsss when we are on ship!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/.mrmtname.",
     "value": {
       "default": [
         "Friendly. I'll give you a 5% fuel efficiency boost whenever we're on the ship!"
@@ -19,18 +10,7 @@
   },
   {
     "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran",
-    "value": {
-      "default": [
-        "Floran hasss things to help you out!",
-        "Floran can help out!",
-        "Floran hasss things to help!"
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/.mrmtname.",
     "value": {
       "default": [
         "Eager. I can help you out!",
