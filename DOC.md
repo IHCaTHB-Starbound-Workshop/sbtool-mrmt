@@ -8,6 +8,8 @@ The Minimalist Race Mod Template is NOT a mod. It is a suite of templates that I
 
 The tag used for search and replace, `.mrmtname.`, should be written including the periods on either side of the string. This should funtion identically in plaintext as it does in regex.
 
+If you already have a functioning race mod you can skip [the base](#the-base) and go straight to [additional modules](#additional-modules).
+
 You can observe an outline of the folder structure [here](#the-folder-structure).
 
 ### the base
