@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/.mrmtname.",
+    "value": {
+      "default": [
+        "Enticing. Traveller, come hither, and browse my wares.",
+        "Furtive. Cogs and gears only go so far, young one.",
+        "Tantalising. My wares are wondrous and strange."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/.mrmtname.",
+    "value": {
+      "default": [
+        "Cordial. Farewell, traveller.",
+        "Convivial. I hope to see you more in future.",
+        "Kindly. Courage to you!"
+      ]
+    }
+  }
+]

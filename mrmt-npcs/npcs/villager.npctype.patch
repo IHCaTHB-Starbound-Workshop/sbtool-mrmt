@@ -1,5 +1,9 @@
 [
   {
+    "op": "test",
+    "path": "/items/.mrmtgeartype."
+  },
+  {
     "op": "copy",
     "path": "/items/.mrmtname.",
     "from": "/items/.mrmtgeartype."

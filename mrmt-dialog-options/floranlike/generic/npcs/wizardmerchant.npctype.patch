@@ -1,0 +1,25 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/start/.mrmtname.",
+    "value": {
+      "default": [
+        "Me ssells wondrous things!",
+        "Me stocks best sstuff around.",
+        "It's wares are pretty impresssive!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/merchant/end/.mrmtname.",
+    "value": {
+      "default": [
+        "Come back, stay here, ssspend more!",
+        "Me hopess you come back soon.",
+        "Me sells besst things, you come back soon.",
+        "Me pleased, hopes you come again."
+      ]
+    }
+  }
+]

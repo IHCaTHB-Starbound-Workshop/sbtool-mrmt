@@ -31,12 +31,14 @@ You can observe an outline of the folder structure [here](#the-folder-structure)
   * `.mrmtname.` with the same name you chose for the base module search and replace.
   * `.mrmtgeartype.` with the name of the vanilla species whos clothing you would like to borrow.
 
-3. Copy the contents of your copy of 'mrmt-npcs' into the folder of your mod. Remove the old empty folder.
+3. If you do not want your species appearing as a certain npc type find the associated type in '/projectiles/spawner' and simply delete the .patch file. In the case of wanting to remove the Letheia ships crew from Frackin Universe you would also have to delete the '/objects' folder.
+
+4. Copy the contents of your copy of 'mrmt-npcs' into the folder of your mod. Remove the old empty folder.
 
 #### dialog options
 
 1. Pick a dialog style.
-  * Direct will duplicate all dialog from the vanilla species you choose. your species would be refered to as a memeber of that vanilla species.
+  * Direct will duplicate all dialog from the vanilla species you choose. your species would be talk and be reffered to as a memeber of that vanilla species.
   * Rename will mimic the dialog of the species you choose replacing any references to self by species name with the species name of your choice.
   * Generic will mimic the dialog of the species you choose replacing any references to self by species name with pronouns when feasable and by the species name of your choice elsewise.
     * Generic and rename styles can be found inside the folder marked for that species.

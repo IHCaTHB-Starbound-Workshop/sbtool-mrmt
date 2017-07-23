@@ -1,12 +1,21 @@
-[
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/merchant/categories/.mrmtgeartype."
+  },
   {
     "op": "copy",
     "path": "/scriptConfig/merchant/categories/.mrmtname.",
     "from": "/scriptConfig/merchant/categories/.mrmtgeartype."
+  }
+],[
+  {
+    "op": "test",
+    "path": "/items/.mrmtgeartype."
   },
   {
     "op": "copy",
     "path": "/items/.mrmtname.",
     "from": "/items/.mrmtgeartype."
   }
-]
+]]

@@ -11,11 +11,11 @@
 ],[
   {
     "op": "test",
-    "path": "/scriptConfig/merchant/categories/.mrmtgeartype."
+    "path": "/items/.mrmtgeartype."
   },
   {
     "op": "copy",
-    "path": "/scriptConfig/merchant/categories/.mrmtname.",
-    "from": "/scriptConfig/merchant/categories/.mrmtgeartype."
+    "path": "/items/.mrmtname.",
+    "from": "/items/.mrmtgeartype."
   }
 ]]
