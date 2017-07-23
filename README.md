@@ -5,7 +5,7 @@ Project licensed under a modified [MIT license], file included[*].
 
 See [DOC.md] for usage instructions.
 
-See also [ATTRIBUTION.md], [CHANGELOG.md], and [_metadata].
+See also [ATTRIBUTION.md] and [CHANGELOG.md].
 
 You can contact the author on the official Starbound forums [MEGATHREAD].
 
