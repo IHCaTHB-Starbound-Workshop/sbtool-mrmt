@@ -8,32 +8,34 @@ last updated 2017-07-23 for version 0.1
 
 The tag used for search and replace, `.mrmtname.`, should be written including the periods on either side of the string. This should funtion identically in plaintext as it does in regex.
 
-#### the base
+You can observe an outline of the folder structure [here](#the-folder-structure).
+
+> #### the base
 
 1. Come to terms with the fact that you will never make anything remotely close to as cool as the Munari.
 
-2. Choose a base template and copy it into your mods folder. Get ready to rename things!
-  1. Rename the folder you just copied to whatever you want your mods project folder to be called!
-  2. Search and replace .mrmtname. with your species name in the text files, file names, and folder names.
-It is recomended that you use all lowercase alphanumeric characters and do not use spaces, hyphens, periods, or any other special characters.
+2. Make a copy of the base template you will be using, place it in your mods folder, and name it anything you want.
 
-3. Start your mod! All other modules included are optional.
+3. Within this copy search and replace the following as it appears in text files, file names, and folder names.
+  * `.mrmtname.` with your species name. It is recomended that you use all lowercase alphanumeric characters and do not use spaces, hyphens, periods, or any other special characters.
+
+4. Start your mod! All other modules included are optional.
 
 Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed with permission.
 
 #### additional modules
 
-##### npcs
+> ##### npcs
 
 1. Make a copy of 'mrmt-npcs'. It does not matter where you make it or what you call it as it is temporary.
 
-2. Within this copy search and replace multiple different items appearing only in file text, not in any file or folder names.
+2. Within this copy search and replace multiple different items appearing only in text files, not in any file or folder names.
   * `.mrmtname.` with the same name you chose for the base module search and replace.
   * `.mrmtgeartype.` with the name of the vanilla species whos clothing you would like to borrow.
 
 3. Copy the contents of your copy of 'mrmt-npcs' into the folder of your mod.
 
-##### dialog options
+> ##### dialog options
 
 1. Pick a dialog style.
   * Direct will duplicate all dialog from the vanilla species you choose. your species would be refered to as a memeber of that vanilla species.
@@ -43,7 +45,7 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
 
 2. Make a copy of the folder you choose. It does not matter where you make it or what you call it as it is temporary.
 
-3. Within this copy search and replace multiple different items appearing only in file text, not in any file or folder names.
+3. Within this copy search and replace multiple different items appearing only in text files, not in any file or folder names.
   * `.mrmtname.` with the same name you chose for the base module search and replace.
   * `.mrmttitlename.` with the name of your species written with proper capitalization, or however you want it presented.
   * `.mrmtcapname.` with the name of your species written in all caps.
@@ -51,7 +53,7 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
 
 4. Copy the contents of your copy of the dialog module into the folder of your mod.
 
-##### object description
+> ##### object description
 
 1. Pick an object description style.
   * Direct
@@ -74,7 +76,9 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
 
 Description module generated with help from [Starbound Race Description Patcher - Compiler tool] by [GTG3000].
 
-##### extras
+> ##### extras
+
+Templates for dungeons and unique npcs will be released as a seperate project.
 
 ### the folder structure
 
@@ -111,8 +115,6 @@ Description module generated with help from [Starbound Race Description Patcher 
 Attribution is *not* required when publishing a project made with this template. It is still appreciated.
 
 ## backend
-
-#usage
 
 [Miss Skittles]: http://community.playstarbound.com/members/96422/
 
