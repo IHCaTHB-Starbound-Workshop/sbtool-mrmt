@@ -17,3 +17,8 @@ It is recomended that you use all lowercase alphanumeric characters and do not u
 Attribution is _not_ required when publishing a project made with this template. It is still appreciated.
 
 ## backend
+
+---
+
+@license MIT
+@author IHCaTHB

@@ -5,6 +5,8 @@
 
 IHCaTHB | forum: [714236] | steam: [The Honey Badger] | github: [IsaacHart]
 
+All images are property of [Chucklefish]
+
 ## credit
 
 [Chucklefish], developer and publisher of [Starbound].
@@ -50,3 +52,8 @@ http://chbrown.github.io/rfc6902/
 [GTG3000]: http://community.playstarbound.com/members/191401/
 
 [Starbound Race Description Patcher - Compiler tool]: http://community.playstarbound.com/resources/4306/
+
+---
+
+@license MIT
+@author IHCaTHB

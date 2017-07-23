@@ -7,3 +7,8 @@
 + dialog options module
 + object descriptions options module
 + i seen some shit
+
+---
+
+@license MIT
+@author IHCaTHB
