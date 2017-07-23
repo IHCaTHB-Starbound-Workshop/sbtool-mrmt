@@ -2,15 +2,15 @@
 # documentation
 last updated 2017-07-23 for version 0.1
 
-## frontend
-
-### usage
+## usage
 
 The tag used for search and replace, `.mrmtname.`, should be written including the periods on either side of the string. This should funtion identically in plaintext as it does in regex.
 
 You can observe an outline of the folder structure [here](#the-folder-structure).
 
-> #### the base
+---
+
+### the base
 
 1. Come to terms with the fact that you will never make anything remotely close to as cool as the Munari.
 
@@ -23,9 +23,11 @@ You can observe an outline of the folder structure [here](#the-folder-structure)
 
 Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed with permission.
 
-#### additional modules
+---
 
-> ##### npcs
+### additional modules
+
+#### npcs
 
 1. Make a copy of 'mrmt-npcs'. It does not matter where you make it or what you call it as it is temporary.
 
@@ -35,7 +37,9 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
 
 3. Copy the contents of your copy of 'mrmt-npcs' into the folder of your mod.
 
-> ##### dialog options
+---
+
+#### dialog options
 
 1. Pick a dialog style.
   * Direct will duplicate all dialog from the vanilla species you choose. your species would be refered to as a memeber of that vanilla species.
@@ -53,7 +57,9 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
 
 4. Copy the contents of your copy of the dialog module into the folder of your mod.
 
-> ##### object description
+---
+
+#### object description
 
 1. Pick an object description style.
   * Direct
@@ -76,9 +82,13 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
 
 Description module generated with help from [Starbound Race Description Patcher - Compiler tool] by [GTG3000].
 
-> ##### extras
+---
+
+#### extras
 
 Templates for dungeons and unique npcs will be released as a seperate project.
+
+---
 
 ### the folder structure
 
