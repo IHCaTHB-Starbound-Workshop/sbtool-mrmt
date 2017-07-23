@@ -8,8 +8,6 @@ The tag used for search and replace, `.mrmtname.`, should be written including t
 
 You can observe an outline of the folder structure [here](#the-folder-structure).
 
----
-
 ### the base
 
 1. Come to terms with the fact that you will never make anything remotely close to as cool as the Munari.
@@ -21,9 +19,7 @@ You can observe an outline of the folder structure [here](#the-folder-structure)
 
 4. Start your mod! All other modules included are optional.
 
-Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed with permission.
-
----
+> Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed with permission.
 
 ### additional modules
 
@@ -35,9 +31,7 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
   * `.mrmtname.` with the same name you chose for the base module search and replace.
   * `.mrmtgeartype.` with the name of the vanilla species whos clothing you would like to borrow.
 
-3. Copy the contents of your copy of 'mrmt-npcs' into the folder of your mod.
-
----
+3. Copy the contents of your copy of 'mrmt-npcs' into the folder of your mod. Remove the old empty folder.
 
 #### dialog options
 
@@ -55,9 +49,7 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
   * `.mrmtcapname.` with the name of your species written in all caps.
   * `.mrmtdialtype.` with the name of the vanilla species whos dialog you would like to borrow.
 
-4. Copy the contents of your copy of the dialog module into the folder of your mod.
-
----
+4. Copy the contents of your copy of the dialog module into the folder of your mod. Remove the old empty folder.
 
 #### object description
 
@@ -78,17 +70,13 @@ Base module based on the [Skittles Race Mod] by [Miss Skittles]. Distributed wit
   * `.mrmtdialtype.` with the name of the vanilla species whos dialog you would like to borrow.
   * `.descstring.` with the text you would like your species to repeat on inspecting something, only used for 'repeat' style.
 
-4. Copy the contents of your copy of the dialog module into the folder of your mod.
+4. Copy the contents of your copy of the object description module into the folder of your mod. Remove the old empty folder.
 
-Description module generated with help from [Starbound Race Description Patcher - Compiler tool] by [GTG3000].
-
----
+> Description module generated with help from [Starbound Race Description Patcher - Compiler tool] by [GTG3000].
 
 #### extras
 
 Templates for dungeons and unique npcs will be released as a seperate project.
-
----
 
 ### the folder structure
 
@@ -123,8 +111,6 @@ Templates for dungeons and unique npcs will be released as a seperate project.
 ### licensing
 
 Attribution is *not* required when publishing a project made with this template. It is still appreciated.
-
-## backend
 
 [Miss Skittles]: http://community.playstarbound.com/members/96422/
 
