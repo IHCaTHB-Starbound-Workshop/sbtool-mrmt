@@ -1,7 +1,7 @@
 # sbtool-mrmt
 # changelog
 
-### v0.1 2017-07-22
+### v0.1 2017-07-23
 + race base template module
 + npcs core module
 + dialog options module

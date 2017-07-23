@@ -1,8 +1,9 @@
 # sbtool-mrmt
 # documentation
-last updated 2017-07-22 for version 0.1
+last updated 2017-07-23 for version 0.1
 
 ## frontend
+
 ### usage
 
 1. Copy the folder of your desired race base to your mod folder.
