@@ -1,7 +1,7 @@
 [
   {
     "op" : "copy",
-    "path" : "/initialquests/..mrmtname.name.",
+    "path" : "/initialquests/.mrmtname.",
     "from" : "/initialquests/avian"
   }
 ]

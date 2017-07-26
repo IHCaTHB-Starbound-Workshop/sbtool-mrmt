@@ -1,7 +1,7 @@
 [
   {
     "op" : "copy",
-    "path" : "/speciesShips/..mrmtname.name.",
+    "path" : "/speciesShips/.mrmtname.",
     "from" : "/speciesShips/avian"
   }
 ]

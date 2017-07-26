@@ -1,1 +1,1 @@
-[ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "..mrmtname.name." } ]
+[ { "op" : "add", "path" : "/speciesOrdering/-", "value" : ".mrmtname." } ]
